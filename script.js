@@ -56,30 +56,50 @@ function buildCompaniesGrid() {
   companyGrid.replaceChildren(fragment);
 }
 
+function getCompaniesMaxScroll() {
+  if (!companiesScroller) return 0;
+  return Math.max(0, Math.ceil(companiesScroller.scrollWidth - companiesScroller.clientWidth));
+}
+
 function syncCompaniesScrollbar() {
   if (!companiesScroller || !companiesThumb || !companiesScrollbar) return;
 
-  const maxScroll = companiesScroller.scrollWidth - companiesScroller.clientWidth;
+  const maxScroll = getCompaniesMaxScroll();
   const trackWidth = companiesScrollbar.clientWidth;
-  const thumbWidth = Math.min(trackWidth, Math.max(44, Math.round((companiesScroller.clientWidth / companiesScroller.scrollWidth) * trackWidth)));
+  const visibleRatio = companiesScroller.scrollWidth > 0
+    ? companiesScroller.clientWidth / companiesScroller.scrollWidth
+    : 1;
+  const thumbWidth = Math.min(trackWidth, Math.max(44, Math.round(visibleRatio * trackWidth)));
   companiesThumb.style.width = `${thumbWidth}px`;
   const maxTrack = trackWidth - thumbWidth;
-  const ratio = maxScroll > 0 ? companiesScroller.scrollLeft / maxScroll : 0;
+  const ratio = maxScroll > 0
+    ? Math.min(1, Math.max(0, companiesScroller.scrollLeft / maxScroll))
+    : 0;
   companiesThumb.style.transform = `translateX(${ratio * maxTrack}px)`;
   companiesThumb.setAttribute("aria-valuenow", String(Math.round(ratio * 100)));
 }
-
 function setupCompaniesScroller() {
   if (!companiesScroller || !companiesThumb || !companiesScrollbar) return;
 
   syncCompaniesScrollbar();
   companiesScroller.addEventListener("scroll", syncCompaniesScrollbar, { passive: true });
+  companiesScroller.addEventListener("wheel", (event) => {
+    const horizontalDelta = event.shiftKey ? event.deltaY : event.deltaX;
+    if (!horizontalDelta) return;
+
+    const maxScroll = getCompaniesMaxScroll();
+    const nextScroll = Math.min(maxScroll, Math.max(0, companiesScroller.scrollLeft + horizontalDelta));
+    if (nextScroll === companiesScroller.scrollLeft) return;
+
+    event.preventDefault();
+    companiesScroller.scrollLeft = nextScroll;
+  }, { passive: false });
   window.addEventListener("resize", syncCompaniesScrollbar);
   let dragStartX = 0;
   let dragStartScroll = 0;
   let draggingThumb = false;
   function moveFromPointer(clientX) {
-    const maxScroll = companiesScroller.scrollWidth - companiesScroller.clientWidth;
+    const maxScroll = getCompaniesMaxScroll();
     const maxTrack = companiesScrollbar.clientWidth - companiesThumb.clientWidth;
     if (maxScroll <= 0 || maxTrack <= 0) return;
     const ratio = Math.max(0, Math.min(1, (clientX - companiesScrollbar.getBoundingClientRect().left - companiesThumb.clientWidth / 2) / maxTrack));
@@ -98,7 +118,7 @@ function setupCompaniesScroller() {
   });
   companiesThumb.addEventListener("pointermove", (event) => {
     if (!draggingThumb) return;
-    const maxScroll = companiesScroller.scrollWidth - companiesScroller.clientWidth;
+    const maxScroll = getCompaniesMaxScroll();
     const maxTrack = companiesScrollbar.clientWidth - companiesThumb.clientWidth;
     if (maxScroll > 0 && maxTrack > 0) companiesScroller.scrollLeft = dragStartScroll + ((event.clientX - dragStartX) / maxTrack) * maxScroll;
   });
