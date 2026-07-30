@@ -1596,3 +1596,12 @@ html{box-sizing:border-box;font-synthesis:none;}
 .form-message.is-error,
 .form-message.is-success,
 .what-section .docs-form-inner .form-message{min-height:27px!important;margin:0!important;font-family:"Space Grotesk",sans-serif!important;font-size:18px!important;line-height:27px!important;font-weight:400!important;color:#949494!important;}
+/* Footer and join-form final sizing */
+.site-footer .footer-left a,
+.site-footer .footer-inner p{font-size:14px!important;line-height:16px!important;}
+.site-footer .footer-left img,
+.site-footer .brand-logo--light{width:172px!important;height:32px!important;flex-basis:172px!important;}
+.join-section .join-copy{font-size:19px!important;line-height:27px!important;}
+.join-section #join-form .form-message,
+.join-section #join-form .form-message.is-error,
+.join-section #join-form .form-message.is-success{min-height:25px!important;font-size:17px!important;line-height:25px!important;color:#949494!important;}
