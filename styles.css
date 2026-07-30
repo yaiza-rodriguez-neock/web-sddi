@@ -1660,3 +1660,7 @@ html{box-sizing:border-box;font-synthesis:none;}
  .navbar .nav-shell .nav-cta-mobile{display:block!important;color:#ff7a77!important;}
  .navbar .nav-shell .nav-cta-mobile:hover,.navbar .nav-shell .nav-cta-mobile:focus-visible{color:#ff7a77!important;}
 }
+/* Funding mobile body scale */
+@media(max-width:900px){
+ .funding-section .section-description{font-size:18px!important;line-height:27px!important;}
+}
