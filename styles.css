@@ -1654,3 +1654,9 @@ html{box-sizing:border-box;font-synthesis:none;}
  .hero-media{width:100%!important;height:auto!important;min-height:0!important;max-height:none!important;flex:0 0 auto!important;aspect-ratio:1033 / 929!important;background:#fff!important;}
  .hero-media img{width:100%!important;height:100%!important;max-height:none!important;object-fit:contain!important;object-position:center!important;}
 }
+/* Mobile navbar join link */
+.navbar .nav-cta-mobile{display:none!important;}
+@media(max-width:1200px){
+ .navbar .nav-shell .nav-cta-mobile{display:block!important;color:#ff7a77!important;}
+ .navbar .nav-shell .nav-cta-mobile:hover,.navbar .nav-shell .nav-cta-mobile:focus-visible{color:#ff7a77!important;}
+}
