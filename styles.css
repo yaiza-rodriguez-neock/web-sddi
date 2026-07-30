@@ -1630,3 +1630,15 @@ html{box-sizing:border-box;font-synthesis:none;}
  .navbar .nav-cta.button{display:none!important;}
  .navbar .nav-shell{z-index:1001!important;}
 }
+/* Documentation and hero mobile containment */
+@media(max-width:1200px){
+ .what-section .docs-block{grid-template-columns:1fr!important;grid-template-rows:auto auto!important;width:100%!important;height:auto!important;}
+ .what-section .docs-copy,.what-section .docs-form-card{width:100%!important;height:auto!important;min-height:0!important;padding:36px 24px!important;}
+ .what-section .docs-form-inner,.what-section .docs-form-inner .stack-form{box-sizing:border-box!important;width:100%!important;min-width:0!important;max-width:100%!important;}
+ .what-section .docs-form-inner input[type=email],.what-section .docs-form-inner .compact-consent,.what-section .docs-form-inner .docs-button{box-sizing:border-box!important;width:100%!important;max-width:100%!important;}
+ .what-section .docs-form-inner .compact-consent span{min-width:0!important;overflow-wrap:anywhere!important;}
+}
+@media(max-width:860px){
+ .hero-media{height:min(280px,60vw)!important;min-height:0!important;max-height:280px!important;}
+ .hero-media img{height:100%!important;object-fit:cover!important;}
+}
