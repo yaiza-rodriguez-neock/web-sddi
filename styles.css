@@ -1639,6 +1639,11 @@ html{box-sizing:border-box;font-synthesis:none;}
  .what-section .docs-form-inner .compact-consent span{min-width:0!important;overflow-wrap:anywhere!important;}
 }
 @media(max-width:860px){
- .hero-media{height:min(280px,60vw)!important;min-height:0!important;max-height:280px!important;}
+ .hero-media{width:100%!important;height:220px!important;min-height:0!important;max-height:220px!important;flex:0 0 220px!important;}
+ .hero-media img{height:100%!important;object-fit:cover!important;}
+}
+/* Hero compact mobile and tablet */
+@media(max-width:1200px){
+ .hero-media{width:100%!important;height:220px!important;min-height:0!important;max-height:220px!important;flex:0 0 220px!important;}
  .hero-media img{height:100%!important;object-fit:cover!important;}
 }
