@@ -1589,3 +1589,10 @@ html{box-sizing:border-box;font-synthesis:none;}
  .team-section .team-copy p{font-size:18px!important;line-height:27px!important;}
  .team-section .team-content{grid-template-columns:minmax(0,1fr) 652px!important;}
 }
+/* Footer and form-message typography */
+.site-footer .footer-left a,
+.site-footer .footer-inner p{font-family:"Space Grotesk",sans-serif!important;font-size:18px!important;line-height:20px!important;font-weight:500!important;}
+.form-message,
+.form-message.is-error,
+.form-message.is-success,
+.what-section .docs-form-inner .form-message{min-height:27px!important;margin:0!important;font-family:"Space Grotesk",sans-serif!important;font-size:18px!important;line-height:27px!important;font-weight:400!important;color:#949494!important;}
