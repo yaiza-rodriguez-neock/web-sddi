@@ -131,7 +131,7 @@ function buildFaq() {
             aria-controls="faq-panel-${index}"
           >
             <span class="faq-question">${item.question}</span>
-            <span class="faq-toggle-control" aria-hidden="true">${index === 0 ? "−" : "+"}</span>
+            <img class="faq-toggle-control" aria-hidden="true" src="assets/Landing_img/${index === 0 ? "minus.svg" : "plus.svg"}" alt="" />
           </button>
           <div
             class="faq-panel"
@@ -156,7 +156,7 @@ function buildFaq() {
     const icon = item.querySelector(".faq-toggle-control");
 
     button.setAttribute("aria-expanded", String(open));
-    icon.textContent = open ? "−" : "+";
+    icon.src = `assets/Landing_img/${open ? "minus.svg" : "plus.svg"}`;
 
     if (open) {
       panel.hidden = false;
