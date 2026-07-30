@@ -344,6 +344,16 @@
       </section>
     </main>
 
+    <div class="form-modal" id="form-modal" hidden aria-hidden="true" role="dialog" aria-modal="true" aria-labelledby="form-modal-title" aria-describedby="form-modal-message">
+      <div class="form-modal__backdrop" data-modal-close></div>
+      <div class="form-modal__card" role="document">
+        <button class="form-modal__close" type="button" aria-label="Cerrar mensaje" data-modal-close>×</button>
+        <div class="form-modal__icon" aria-hidden="true">✓</div>
+        <h2 id="form-modal-title">Solicitud recibida</h2>
+        <p id="form-modal-message"></p>
+        <button class="button button-primary form-modal__continue" type="button" data-modal-close>Seguir navegando</button>
+      </div>
+    </div>
     <footer class="site-footer">
       <div class="footer-inner">
         <div class="footer-left">

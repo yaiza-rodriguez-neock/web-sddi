@@ -202,6 +202,58 @@ function buildFaq() {
   });
 }
 
+let showFormModal = () => {};
+
+function setupFormModal() {
+  const modal = document.getElementById("form-modal");
+  const title = document.getElementById("form-modal-title");
+  const modalMessage = document.getElementById("form-modal-message");
+  if (!modal || !title || !modalMessage) return;
+
+  let lastFocusedElement = null;
+  let closeTimer = 0;
+
+  function closeModal() {
+    if (modal.hidden) return;
+    modal.classList.remove("is-open");
+    modal.setAttribute("aria-hidden", "true");
+    document.body.classList.remove("modal-open");
+    window.clearTimeout(closeTimer);
+    closeTimer = window.setTimeout(() => {
+      modal.hidden = true;
+      lastFocusedElement?.focus();
+    }, 220);
+  }
+
+  showFormModal = (formType) => {
+    const isDocumentation = formType === "docs-form";
+    title.textContent = isDocumentation
+      ? "Gracias por solicitar información"
+      : "Gracias por tu interés en SDDI";
+    modalMessage.textContent = isDocumentation
+      ? "Hemos recibido tu solicitud. En breve recibirás en tu correo la información disponible sobre el proyecto SDDI."
+      : "Hemos recibido tu solicitud. Nos pondremos en contacto contigo lo antes posible para encontrar un momento adecuado para reunirnos.";
+    lastFocusedElement = document.activeElement;
+    window.clearTimeout(closeTimer);
+    modal.hidden = false;
+    modal.setAttribute("aria-hidden", "false");
+    document.body.classList.add("modal-open");
+    window.requestAnimationFrame(() => {
+      modal.classList.add("is-open");
+      modal.querySelector(".form-modal__close")?.focus();
+    });
+  };
+
+  modal.querySelectorAll("[data-modal-close]").forEach((control) => {
+    control.addEventListener("click", closeModal);
+  });
+  modal.addEventListener("click", (event) => {
+    if (event.target === modal) closeModal();
+  });
+  document.addEventListener("keydown", (event) => {
+    if (event.key === "Escape") closeModal();
+  });
+}
 function setupForm(formId) {
   const form = document.getElementById(formId);
   if (!form) return;
@@ -233,11 +285,10 @@ function setupForm(formId) {
       return;
     }
 
-    message.className = "form-message is-success";
-    message.textContent =
-      formId === "docs-form"
-        ? "Formulario preparado. La documentación se conectará en la siguiente iteración."
-        : "Formulario preparado. La integración de envío real se añadirá en la siguiente iteración.";
+    message.className = "form-message";
+    message.textContent = "";
+    form.reset();
+    showFormModal(formId);
   });
 }
 
@@ -332,6 +383,7 @@ buildCompaniesGrid();
 setupCompaniesScroller();
 
 buildFaq();
+setupFormModal();
 setupForm("docs-form");
 setupForm("join-form");
 setupSmoothAnchors();

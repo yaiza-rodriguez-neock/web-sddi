@@ -1707,3 +1707,18 @@ html{box-sizing:border-box;font-synthesis:none;}
   .hero h1{width:100%!important;max-width:630px!important;}
   .hero-badge{max-width:100%!important;white-space:normal!important;overflow-wrap:anywhere!important;}
 }
+/* Modales de confirmación de formularios */
+body.modal-open{overflow:hidden!important;}
+.form-modal{position:fixed;inset:0;z-index:2000;display:grid;place-items:center;padding:24px;opacity:0;visibility:hidden;pointer-events:none;transition:opacity .22s ease,visibility .22s ease;}
+.form-modal[hidden]{display:grid;}
+.form-modal.is-open{opacity:1;visibility:visible;pointer-events:auto;}
+.form-modal__backdrop{position:absolute;inset:0;background:rgba(35,35,35,.58);backdrop-filter:blur(2px);}
+.form-modal__card{position:relative;z-index:1;box-sizing:border-box;width:min(560px,100%);padding:52px 48px 44px;border:1px solid rgba(255,255,255,.6);border-radius:24px;background:#fff;box-shadow:0 24px 70px rgba(35,35,35,.2);text-align:center;transform:translateY(16px) scale(.97);transition:transform .28s cubic-bezier(.2,.8,.2,1);}
+.form-modal.is-open .form-modal__card{transform:translateY(0) scale(1);}
+.form-modal__close{position:absolute;top:16px;right:18px;width:36px;height:36px;padding:0;border:0;border-radius:50%;background:transparent;color:#2f3b46;font:400 30px/32px 'Space Grotesk',sans-serif;cursor:pointer;transition:background .18s ease,color .18s ease;}
+.form-modal__close:hover,.form-modal__close:focus-visible{background:#f5f6f7;color:#ff7a77;outline:none;}
+.form-modal__icon{width:56px;height:56px;margin:0 auto 24px;border-radius:50%;display:grid;place-items:center;background:#fff1f0;color:#ff7a77;font-size:32px;font-weight:700;}
+.form-modal__card h2{margin:0;color:#2f3b46;font-size:30px;line-height:1.15;font-weight:500;letter-spacing:-.6px;}
+.form-modal__card p{margin:18px auto 0;max-width:430px;color:#5a6370;font-size:18px;line-height:1.55;}
+.form-modal__continue{margin-top:30px;min-width:210px;}
+@media(max-width:600px){.form-modal{padding:20px;}.form-modal__card{padding:44px 24px 30px;border-radius:18px;}.form-modal__card h2{font-size:25px;}.form-modal__card p{font-size:16px;line-height:1.5;}.form-modal__continue{width:100%;}}
