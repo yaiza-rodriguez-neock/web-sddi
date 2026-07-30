@@ -1664,3 +1664,7 @@ html{box-sizing:border-box;font-synthesis:none;}
 @media(max-width:900px){
  .funding-section .section-description{font-size:18px!important;line-height:27px!important;}
 }
+/* Funding responsive body scale */
+@media(max-width:1200px){
+ .funding-section .section-description{font-size:18px!important;line-height:27px!important;}
+}
