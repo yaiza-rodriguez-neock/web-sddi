@@ -1647,3 +1647,10 @@ html{box-sizing:border-box;font-synthesis:none;}
  .hero-media{width:100%!important;height:220px!important;min-height:0!important;max-height:220px!important;flex:0 0 220px!important;}
  .hero-media img{height:100%!important;object-fit:cover!important;}
 }
+/* Full mobile hero artwork */
+@media(max-width:1200px){
+ .hero{flex-direction:column!important;height:auto!important;min-height:0!important;}
+ .hero-copy{width:100%!important;height:auto!important;min-height:0!important;flex:0 0 auto!important;}
+ .hero-media{width:100%!important;height:auto!important;min-height:0!important;max-height:none!important;flex:0 0 auto!important;aspect-ratio:1033 / 929!important;background:#fff!important;}
+ .hero-media img{width:100%!important;height:100%!important;max-height:none!important;object-fit:contain!important;object-position:center!important;}
+}
