@@ -60,7 +60,10 @@ function syncCompaniesScrollbar() {
   if (!companiesScroller || !companiesThumb || !companiesScrollbar) return;
 
   const maxScroll = companiesScroller.scrollWidth - companiesScroller.clientWidth;
-  const maxTrack = companiesScrollbar.clientWidth - companiesThumb.clientWidth;
+  const trackWidth = companiesScrollbar.clientWidth;
+  const thumbWidth = Math.min(trackWidth, Math.max(44, Math.round((companiesScroller.clientWidth / companiesScroller.scrollWidth) * trackWidth)));
+  companiesThumb.style.width = `${thumbWidth}px`;
+  const maxTrack = trackWidth - thumbWidth;
   const ratio = maxScroll > 0 ? companiesScroller.scrollLeft / maxScroll : 0;
   companiesThumb.style.transform = `translateX(${ratio * maxTrack}px)`;
   companiesThumb.setAttribute("aria-valuenow", String(Math.round(ratio * 100)));
@@ -311,14 +314,7 @@ function setupNav() {
 
 buildCompaniesGrid();
 setupCompaniesScroller();
-function enableCompaniesDrag() {
-  if (!companiesScroller) return;
-  let startX = 0; let startScroll = 0; let dragging = false;
-  companiesScroller.addEventListener("pointerdown", (event) => { dragging = true; startX = event.clientX; startScroll = companiesScroller.scrollLeft; companiesScroller.setPointerCapture(event.pointerId); });
-  companiesScroller.addEventListener("pointermove", (event) => { if (!dragging) return; companiesScroller.scrollLeft = startScroll - (event.clientX - startX); });
-  companiesScroller.addEventListener("pointerup", () => { dragging = false; });
-}
-enableCompaniesDrag();
+
 buildFaq();
 setupForm("docs-form");
 setupForm("join-form");
