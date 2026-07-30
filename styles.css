@@ -1621,3 +1621,12 @@ html{box-sizing:border-box;font-synthesis:none;}
  .join-section .join-heading h2{flex:1 1 auto!important;min-width:0!important;max-width:calc(100% - 44px)!important;font-size:clamp(26px,8vw,30px)!important;line-height:34px!important;letter-spacing:-1.35px!important;}
  .join-section .join-heading .bracket{flex:0 0 16px!important;width:16px!important;font-size:48px!important;line-height:48px!important;}
 }
+/* Mobile navbar layout */
+@media(max-width:1200px){
+ .navbar{position:relative!important;padding:0 24px!important;justify-content:flex-start!important;}
+ .navbar .brand{order:1!important;display:flex!important;align-items:center!important;justify-content:flex-start!important;}
+ .navbar .brand-logo--dark{width:132px!important;height:25px!important;}
+ .navbar .nav-toggle{order:2!important;display:inline-flex!important;margin-left:auto!important;align-items:center!important;justify-content:center!important;}
+ .navbar .nav-cta.button{display:none!important;}
+ .navbar .nav-shell{z-index:1001!important;}
+}
