@@ -48,9 +48,28 @@ const faqData = [
 function buildCompaniesGrid() {
   if (!companyGrid) return;
   const fragment = document.createDocumentFragment();
-  for (let index = 1; index <= 220; index += 1) {
-    const cell = document.createElement("div");
+  const entities = Array.isArray(window.logoCatalog) ? window.logoCatalog : [];
+  const entityUrls = window.entityUrls || {};
+  for (const entity of entities) {
+    const entityUrl = entityUrls[entity.id];
+    const cell = document.createElement(entityUrl ? "a" : "div");
     cell.className = "company-slot";
+    cell.dataset.entityId = entity.id;
+    cell.dataset.entityName = entity.name;
+    if (entityUrl) {
+      cell.href = entityUrl;
+      cell.target = "_blank";
+      cell.rel = "noopener noreferrer";
+      cell.setAttribute("aria-label", `Abrir la p?gina de ${entity.name} en una pesta?a nueva`);
+    }
+
+    const image = document.createElement("img");
+    const cacheVersion = entity.id === "arroupa-santiago" ? "?v=20260731" : "";
+    image.src = `assets/Entidades/${entity.id}/normalized/${entity.id}-480x120.png${cacheVersion}`;
+    image.alt = entity.name;
+    image.loading = "lazy";
+    image.decoding = "async";
+    cell.append(image);
     fragment.append(cell);
   }
   companyGrid.replaceChildren(fragment);

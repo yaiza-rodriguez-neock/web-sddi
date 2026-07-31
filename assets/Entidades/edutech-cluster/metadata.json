@@ -1,0 +1,72 @@
+{
+    "entity": "EDUTECH CLUSTER",
+    "resolved_entity_name": "Associacio d'Empreses per a la Promocio de la Tecnologia Educativa - Edutech Cluster",
+    "official_site": "https://edutechcluster.org/",
+    "supporting_evidence_urls": [
+        "https://edutechcluster.org/",
+        "https://edutechcluster.org/el-cluster/",
+        "https://www.edutechcluster.org/politica-de-privacidad/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": "Asociacion/cluster de tecnologia educativa y formacion; impacto educativo indirecto y claro encaje sectorial EdTech.",
+    "source_asset_url": "https://media.timtul.com/media/web_edutechcluster/logo-big-size_20250603091339.png",
+    "source_file": "logos/edutech-cluster/original/edutech-cluster-source.png",
+    "source_format": "PNG",
+    "source_dimensions_px": {
+        "width": 2872,
+        "height": 490
+    },
+    "source_color_mode": "RGBA",
+    "source_alpha_channel": true,
+    "source_background": "Transparencia conservada.",
+    "source_byte_size": 125499,
+    "source_sha256": "ee19a13fbe32b6f4a7a87db98e58803aea4a54466aeadac18ad14215548300f3",
+    "normalized_file": "logos/edutech-cluster/normalized/edutech-cluster-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 24,
+        "top": 23,
+        "right": 456,
+        "bottom": 97
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 432,
+        "height": 74
+    },
+    "normalized_byte_size": 25176,
+    "normalized_sha256": "ba40f440e2563c5fc23f3f55ddf96df6770535690381910d9f9339be6c3f2f4a",
+    "preview_files": [
+        "logos/edutech-cluster/preview/edutech-cluster-preview-480x120.png",
+        "logos/edutech-cluster/preview/edutech-cluster-preview-480x120-dark.png"
+    ],
+    "transformation": "Canvas transparente 480×120, marca centrada, proporción conservada, sin upscale y transparencia del archivo fuente conservada.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorización de publicación del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

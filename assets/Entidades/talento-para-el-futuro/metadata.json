@@ -1,0 +1,71 @@
+{
+    "entity": "TALENTO PARA EL FUTURO",
+    "resolved_entity_name": null,
+    "official_site": "https://talentoparaelfuturo.com/",
+    "supporting_evidence_urls": [
+        "https://talentoparaelfuturo.com/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://talentoparaelfuturo.com/wp-content/themes/talento/assets/images/logo.svg",
+    "source_file": "logos/talento-para-el-futuro/original/talento-para-el-futuro-source.svg",
+    "source_format": "SVG",
+    "source_dimensions_px": {
+        "width": 167,
+        "height": 36
+    },
+    "source_color_mode": "Vectorial",
+    "source_alpha_channel": true,
+    "source_background": "Transparente; sin fondo de lienzo.",
+    "source_byte_size": 11290,
+    "source_sha256": "0c78917a40e67f83501045ad0bdd30814b92471afe1a5e2dfb185259f764fde6",
+    "normalized_file": "logos/talento-para-el-futuro/normalized/talento-para-el-futuro-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 156,
+        "top": 42,
+        "right": 323,
+        "bottom": 78
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 167,
+        "height": 36
+    },
+    "normalized_byte_size": 6075,
+    "normalized_sha256": "f2fcca228b668ca33dcb762c672f18664aa3e676edd6507a3ddc240e85e8529a",
+    "preview_files": [
+        "logos/talento-para-el-futuro/preview/talento-para-el-futuro-preview-480x120.png",
+        "logos/talento-para-el-futuro/preview/talento-para-el-futuro-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente SVG oficial rasterizada a PNG y centrada en canvas transparente 480Ã—120.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    },
+    "source_declared_viewBox": "0 0 167 36"
+}

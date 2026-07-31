@@ -1,0 +1,70 @@
+{
+    "entity": "AVANTE 3",
+    "resolved_entity_name": null,
+    "official_site": "https://www.avante3.org/",
+    "supporting_evidence_urls": [
+        "https://www.avante3.org/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://www.avante3.org/wp-content/uploads/2025/06/logo-avante-3.png",
+    "source_file": "logos/avante-3/original/avante-3-source.png",
+    "source_format": "PNG",
+    "source_dimensions_px": {
+        "width": 225,
+        "height": 63
+    },
+    "source_color_mode": "P",
+    "source_alpha_channel": true,
+    "source_background": "Transparencia conservada.",
+    "source_byte_size": 2848,
+    "source_sha256": "c47486e1f366171b2a4e6b8775b8014b841a3707339da22eb83e5ac5115ea357",
+    "normalized_file": "logos/avante-3/normalized/avante-3-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 127,
+        "top": 28,
+        "right": 352,
+        "bottom": 91
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 225,
+        "height": 63
+    },
+    "normalized_byte_size": 8448,
+    "normalized_sha256": "4674d1de496f230050d3dfefcc7ac5b332ffeb010f17ff02655a80e4ab2f4e03",
+    "preview_files": [
+        "logos/avante-3/preview/avante-3-preview-480x120.png",
+        "logos/avante-3/preview/avante-3-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

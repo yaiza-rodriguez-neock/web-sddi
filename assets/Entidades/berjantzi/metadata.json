@@ -1,0 +1,70 @@
+{
+    "entity": "BERJANTZI (MODA RE)",
+    "resolved_entity_name": null,
+    "official_site": "https://www.gizatea.net/productos-y-servicios/berjantzi-s-coop/",
+    "supporting_evidence_urls": [
+        "https://www.gizatea.net/productos-y-servicios/berjantzi-s-coop/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://www.gizatea.net/wp-content/uploads/cropped-logo.png",
+    "source_file": "logos/berjantzi/original/berjantzi-source.png",
+    "source_format": "PNG",
+    "source_dimensions_px": {
+        "width": 240,
+        "height": 104
+    },
+    "source_color_mode": "RGBA",
+    "source_alpha_channel": true,
+    "source_background": "Transparencia conservada.",
+    "source_byte_size": 24943,
+    "source_sha256": "149f165f6c21c60345b7b47abbe613236158a8b94980ed7425248da693db6df0",
+    "normalized_file": "logos/berjantzi/normalized/berjantzi-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 120,
+        "top": 8,
+        "right": 360,
+        "bottom": 112
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 240,
+        "height": 104
+    },
+    "normalized_byte_size": 28149,
+    "normalized_sha256": "c3c87a32450122333fa905ac4d1eef499855828426b357d1ba0a269d67098b9d",
+    "preview_files": [
+        "logos/berjantzi/preview/berjantzi-preview-480x120.png",
+        "logos/berjantzi/preview/berjantzi-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

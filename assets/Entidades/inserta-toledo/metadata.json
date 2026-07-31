@@ -1,0 +1,70 @@
+{
+    "entity": "INSERTA TOLEDO (MODA RE)",
+    "resolved_entity_name": null,
+    "official_site": "https://insertatoledo.com/",
+    "supporting_evidence_urls": [
+        "https://insertatoledo.com/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://insertatoledo.com/wp-content/uploads/2025/07/logo-inserta-toledo-min.svg",
+    "source_file": "logos/inserta-toledo/original/inserta-toledo-source.svg",
+    "source_format": "SVG",
+    "source_dimensions_px": {
+        "width": 594,
+        "height": 264
+    },
+    "source_color_mode": "Vectorial",
+    "source_alpha_channel": true,
+    "source_background": "Transparente; sin fondo de lienzo.",
+    "source_byte_size": 15960,
+    "source_sha256": "94e55b0a48523fe2764b046a5f9be7569422b0a8465598993fdeb4c629eb03fd",
+    "normalized_file": "logos/inserta-toledo/normalized/inserta-toledo-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 24,
+        "top": 6,
+        "right": 456,
+        "bottom": 114
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 432,
+        "height": 108
+    },
+    "normalized_byte_size": 12514,
+    "normalized_sha256": "af4016f7184a5604b1786ba0a17fa499c844b0ba171644aa9c19d4215677d764",
+    "preview_files": [
+        "logos/inserta-toledo/preview/inserta-toledo-preview-480x120.png",
+        "logos/inserta-toledo/preview/inserta-toledo-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente SVG oficial rasterizada a PNG y centrada en canvas transparente 480Ã—120.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

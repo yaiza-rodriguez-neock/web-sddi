@@ -1,0 +1,71 @@
+{
+    "entity": "FUNDACIÓN ESTEL DE LLEVANT",
+    "resolved_entity_name": "Fundacio Estel de Llevant",
+    "official_site": "https://www.esmassaludmental.org/socios2.php?socio=Estel%20de%20Llevant&marcar=nosotros",
+    "supporting_evidence_urls": [
+        "https://www.3salutmental.com/es/estel-de-llevant",
+        "https://esteldellevant.es/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": "Directo: autonomia, derechos y apoyo a personas con problemas de salud mental en Mallorca.",
+    "source_asset_url": "https://www.3salutmental.com/storage/app/uploads/public/65b/0e0/d42/thumb_75_0_113_0_0_crop.webp",
+    "source_file": "logos/fundacion-estel-de-llevant/original/fundacion-estel-de-llevant-source.webp",
+    "source_format": "WEBP",
+    "source_dimensions_px": {
+        "width": 313,
+        "height": 113
+    },
+    "source_color_mode": "RGBA",
+    "source_alpha_channel": true,
+    "source_background": "Transparencia conservada.",
+    "source_byte_size": 4568,
+    "source_sha256": "f4202b604de925eb9e3761aa308b1317d5254aae7cde430f160422af4f8794fd",
+    "normalized_file": "logos/fundacion-estel-de-llevant/normalized/fundacion-estel-de-llevant-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 90,
+        "top": 6,
+        "right": 389,
+        "bottom": 114
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 299,
+        "height": 108
+    },
+    "normalized_byte_size": 15067,
+    "normalized_sha256": "83ff66d94d4da64bafce3c10e944fc8aa801cfb56bcb7b575eb5eaae4a53dad3",
+    "preview_files": [
+        "logos/fundacion-estel-de-llevant/preview/fundacion-estel-de-llevant-preview-480x120.png",
+        "logos/fundacion-estel-de-llevant/preview/fundacion-estel-de-llevant-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480×120, proporción conservada y sin upscale; se preservó transparencia cuando existía.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorización de publicación del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

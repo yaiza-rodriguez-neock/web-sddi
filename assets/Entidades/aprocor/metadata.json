@@ -1,0 +1,70 @@
+{
+    "entity": "APROCOR",
+    "resolved_entity_name": null,
+    "official_site": "https://inclusionyapoyoaprocor.org/",
+    "supporting_evidence_urls": [
+        "https://inclusionyapoyoaprocor.org/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://inclusionyapoyoaprocor.org/wp-content/uploads/2026/02/Logo-Potencia-2-scaled.png",
+    "source_file": "logos/aprocor/original/aprocor-source.png",
+    "source_format": "PNG",
+    "source_dimensions_px": {
+        "width": 1871,
+        "height": 2560
+    },
+    "source_color_mode": "RGBA",
+    "source_alpha_channel": true,
+    "source_background": "Transparencia conservada.",
+    "source_byte_size": 162211,
+    "source_sha256": "054dc42fde204770d5c3938cf761213b9f836fc332900b726b0ca82b4b24e571",
+    "normalized_file": "logos/aprocor/normalized/aprocor-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 200,
+        "top": 6,
+        "right": 279,
+        "bottom": 114
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 79,
+        "height": 108
+    },
+    "normalized_byte_size": 8495,
+    "normalized_sha256": "41e0b8920e0b029b11a6259118627baf3e747951f460d25816b57cb2e8fb04ce",
+    "preview_files": [
+        "logos/aprocor/preview/aprocor-preview-480x120.png",
+        "logos/aprocor/preview/aprocor-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

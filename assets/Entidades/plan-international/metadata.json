@@ -1,0 +1,70 @@
+{
+    "entity": "PLAN INTERNATIONAL",
+    "resolved_entity_name": null,
+    "official_site": "https://plan-international.es/colabora/apadrina",
+    "supporting_evidence_urls": [
+        "https://plan-international.es/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://plan-international.es/themes/custom/spirit/footer_logo.png",
+    "source_file": "logos/plan-international/original/plan-international-source.png",
+    "source_format": "PNG",
+    "source_dimensions_px": {
+        "width": 801,
+        "height": 301
+    },
+    "source_color_mode": "RGBA",
+    "source_alpha_channel": true,
+    "source_background": "Transparencia conservada.",
+    "source_byte_size": 33181,
+    "source_sha256": "a6f638d6ebf62f25eb9edab9dfcd2d77ae473fef2e9075db14c06b9dfc8d5404",
+    "normalized_file": "logos/plan-international/normalized/plan-international-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 102,
+        "top": 6,
+        "right": 377,
+        "bottom": 114
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 275,
+        "height": 108
+    },
+    "normalized_byte_size": 21760,
+    "normalized_sha256": "b55edcc3dd537f609c7d5150ee87656a6d4958eca21433b14135a22129c2e76d",
+    "preview_files": [
+        "logos/plan-international/preview/plan-international-preview-480x120.png",
+        "logos/plan-international/preview/plan-international-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

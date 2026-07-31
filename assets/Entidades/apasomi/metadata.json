@@ -1,0 +1,70 @@
+{
+    "entity": "APASOMI (MODA RE)",
+    "resolved_entity_name": null,
+    "official_site": "https://diocesanaterrassa.caritas.es/es/economia_solidaria/apasomi/",
+    "supporting_evidence_urls": [
+        "https://diocesanaterrassa.caritas.es/es/economia_solidaria/apasomi/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://diocesanaterrassa.caritas.es/main-files/uploads/sites/26/2019/10/2021_Logotips_APASOMI-700x364.png",
+    "source_file": "logos/apasomi/original/apasomi-source.png",
+    "source_format": "PNG",
+    "source_dimensions_px": {
+        "width": 700,
+        "height": 364
+    },
+    "source_color_mode": "RGBA",
+    "source_alpha_channel": true,
+    "source_background": "Transparencia conservada.",
+    "source_byte_size": 32532,
+    "source_sha256": "492ebf0f5a0e91e165ae429919884fd9e26547efb0fe005ebca2915eaa22377d",
+    "normalized_file": "logos/apasomi/normalized/apasomi-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 141,
+        "top": 13,
+        "right": 339,
+        "bottom": 99
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 198,
+        "height": 86
+    },
+    "normalized_byte_size": 16310,
+    "normalized_sha256": "66e0a9438b94df9b369c50e4ed49aea3efa3d355aa08fffd1e7c8936bcde947a",
+    "preview_files": [
+        "logos/apasomi/preview/apasomi-preview-480x120.png",
+        "logos/apasomi/preview/apasomi-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

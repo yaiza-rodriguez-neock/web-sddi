@@ -1,0 +1,70 @@
+{
+    "entity": "HOGAR SI",
+    "resolved_entity_name": null,
+    "official_site": "https://hogarsi.org/",
+    "supporting_evidence_urls": [
+        "https://hogarsi.org/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://www.hogarsi.org/wp-content/uploads/2019/09/AF_HogarSi-Fund_Logo_VP_RGB_Pos.png",
+    "source_file": "logos/hogar-si/original/hogar-si-source.png",
+    "source_format": "PNG",
+    "source_dimensions_px": {
+        "width": 150,
+        "height": 107
+    },
+    "source_color_mode": "RGBA",
+    "source_alpha_channel": true,
+    "source_background": "Transparencia conservada.",
+    "source_byte_size": 7508,
+    "source_sha256": "cc38bb1cec7f9940474344e6d9b479f2bb1c9d1e666fee63bf54581d3d19000d",
+    "normalized_file": "logos/hogar-si/normalized/hogar-si-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 165,
+        "top": 6,
+        "right": 315,
+        "bottom": 113
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 150,
+        "height": 107
+    },
+    "normalized_byte_size": 7626,
+    "normalized_sha256": "39d90fd23da7fed1bca75b6905a1024788e2ff11f3f8f2245ccf24986bea94d2",
+    "preview_files": [
+        "logos/hogar-si/preview/hogar-si-preview-480x120.png",
+        "logos/hogar-si/preview/hogar-si-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

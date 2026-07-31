@@ -1,0 +1,71 @@
+{
+    "entity": "AMIMET",
+    "resolved_entity_name": "AMIMET",
+    "official_site": "https://amimet.com/",
+    "supporting_evidence_urls": [
+        "https://amimet.com/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": "Directo: discapacidad, inclusion, empleo, autonomia y apoyo familiar.",
+    "source_asset_url": "https://amimet.com/wp-content/uploads/logo-amimet.svg",
+    "source_file": "logos/amimet/original/amimet-source.svg",
+    "source_format": "SVG",
+    "source_dimensions_px": {
+        "width": 100,
+        "height": 100
+    },
+    "source_color_mode": "Vectorial",
+    "source_alpha_channel": true,
+    "source_background": "Transparente; sin fondo de lienzo.",
+    "source_byte_size": 35159,
+    "source_sha256": "6741426cf702ff2b9ecfc0c7d950cc39cf5136f9713c1376a2dc1ab205a8abf1",
+    "normalized_file": "logos/amimet/normalized/amimet-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 27,
+        "top": 12,
+        "right": 452,
+        "bottom": 108
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 425,
+        "height": 96
+    },
+    "normalized_byte_size": 6883,
+    "normalized_sha256": "94074d0d789445ab259255d8fabdcbb74368c6fc3c1d1b8875ed3c665f03f63f",
+    "preview_files": [
+        "logos/amimet/preview/amimet-preview-480x120.png",
+        "logos/amimet/preview/amimet-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente SVG oficial rasterizada a PNG y centrada en canvas transparente 480Ã—120.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    },
+    "source_declared_viewBox": "0 0 1505 611"
+}

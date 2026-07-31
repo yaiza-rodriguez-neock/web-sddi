@@ -1,0 +1,70 @@
+{
+    "entity": "ICONG",
+    "resolved_entity_name": null,
+    "official_site": "https://icong.org/",
+    "supporting_evidence_urls": [
+        "https://icong.org/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://icong.org/wp-content/uploads/2014/11/cropped-logo_puerta.jpg",
+    "source_file": "logos/icong/original/icong-source.jpg",
+    "source_format": "JPEG",
+    "source_dimensions_px": {
+        "width": 512,
+        "height": 512
+    },
+    "source_color_mode": "CMYK",
+    "source_alpha_channel": false,
+    "source_background": "Fondo no transparente; se eliminaron pÃ­xeles near-white del fondo claro confirmado.",
+    "source_byte_size": 1855496,
+    "source_sha256": "3f0e2e049a5564e4ce95398aea7fdf7787260fccf7a962f747ef613ab54178d1",
+    "normalized_file": "logos/icong/normalized/icong-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 186,
+        "top": 6,
+        "right": 294,
+        "bottom": 114
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 108,
+        "height": 108
+    },
+    "normalized_byte_size": 8181,
+    "normalized_sha256": "34ca1ef6b20a85d484a88f9e15ee57fae1559df0f1b15c22ab7de3750a48d238",
+    "preview_files": [
+        "logos/icong/preview/icong-preview-480x120.png",
+        "logos/icong/preview/icong-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a. Se eliminÃ³ el fondo near-white confirmado.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

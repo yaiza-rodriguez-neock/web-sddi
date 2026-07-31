@@ -1,0 +1,70 @@
+{
+    "entity": "INCLUYEM BARMON SL (MODA RE)",
+    "resolved_entity_name": null,
+    "official_site": "https://incluyembarmon.es/moda-re/",
+    "supporting_evidence_urls": [
+        "https://incluyembarmon.es/moda-re/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://incluyem.es/wp-content/uploads/2026/03/cropped-Logo-INCLUYEM-512-x-512-px.png",
+    "source_file": "logos/incluyem-barmon/original/incluyem-barmon-source.png",
+    "source_format": "PNG",
+    "source_dimensions_px": {
+        "width": 512,
+        "height": 213
+    },
+    "source_color_mode": "P",
+    "source_alpha_channel": false,
+    "source_background": "Fondo no transparente; se eliminaron pÃ­xeles near-white del fondo claro confirmado.",
+    "source_byte_size": 7313,
+    "source_sha256": "7af87c507d5f74fe3c2246d73baa236833ca441a75c2f2ddbdc6d5ddf1068a8a",
+    "normalized_file": "logos/incluyem-barmon/normalized/incluyem-barmon-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 119,
+        "top": 9,
+        "right": 356,
+        "bottom": 113
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 237,
+        "height": 104
+    },
+    "normalized_byte_size": 20846,
+    "normalized_sha256": "42577ffd3e952cb7790f97615f381ec94348508633ee4a9c3e1df31df0d517c0",
+    "preview_files": [
+        "logos/incluyem-barmon/preview/incluyem-barmon-preview-480x120.png",
+        "logos/incluyem-barmon/preview/incluyem-barmon-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a. Se eliminÃ³ el fondo near-white confirmado.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "entity": "MODA-RE",
+    "resolved_entity_name": null,
+    "official_site": "https://modare.org/",
+    "supporting_evidence_urls": [
+        "https://modare.org/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://modare.org/wp-content/uploads/2024/06/logo.svg",
+    "source_file": "logos/moda-re/original/moda-re-source.svg",
+    "source_format": "SVG",
+    "source_dimensions_px": {
+        "width": 145,
+        "height": 53
+    },
+    "source_color_mode": "Vectorial",
+    "source_alpha_channel": true,
+    "source_background": "Transparente; sin fondo de lienzo.",
+    "source_byte_size": 10290,
+    "source_sha256": "484c8ef8dcbce0dda29a09662afd26aa76253d86902f0fb59126e05fcacc7f86",
+    "normalized_file": "logos/moda-re/normalized/moda-re-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 25,
+        "top": 33,
+        "right": 454,
+        "bottom": 86
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 429,
+        "height": 53
+    },
+    "normalized_byte_size": 4712,
+    "normalized_sha256": "3b54c089d6c71b889cfb803ada136ac85cc1eb7c2626a4b18deb8a4a8a3e63ba",
+    "preview_files": [
+        "logos/moda-re/preview/moda-re-preview-480x120.png",
+        "logos/moda-re/preview/moda-re-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente SVG oficial rasterizada a PNG y centrada en canvas transparente 480Ã—120.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    },
+    "source_declared_viewBox": "0 0 145 53"
+}

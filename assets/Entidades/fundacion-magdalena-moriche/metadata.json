@@ -1,0 +1,70 @@
+{
+    "entity": "FUNDACIÓN MAGDALENA MORICHE",
+    "resolved_entity_name": null,
+    "official_site": "https://fundacionmagdalenamoriche.org/",
+    "supporting_evidence_urls": [
+        "https://inteligencialimite.org/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://inteligencialimite.org/wp-content/uploads/2025/12/logofundacionMM.png",
+    "source_file": "logos/fundacion-magdalena-moriche/original/fundacion-magdalena-moriche-source.png",
+    "source_format": "PNG",
+    "source_dimensions_px": {
+        "width": 1600,
+        "height": 417
+    },
+    "source_color_mode": "RGBA",
+    "source_alpha_channel": true,
+    "source_background": "Transparencia conservada.",
+    "source_byte_size": 315945,
+    "source_sha256": "b97e5f43a5fecbad287f0e3e606be5c001e9b7b30fd2f4088d6cfb916ee8903a",
+    "normalized_file": "logos/fundacion-magdalena-moriche/normalized/fundacion-magdalena-moriche-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 33,
+        "top": 17,
+        "right": 447,
+        "bottom": 100
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 414,
+        "height": 83
+    },
+    "normalized_byte_size": 45066,
+    "normalized_sha256": "a68a77e5103daf2127b802b547fdae490a1387c93315dde9ec213d5366d5afeb",
+    "preview_files": [
+        "logos/fundacion-magdalena-moriche/preview/fundacion-magdalena-moriche-preview-480x120.png",
+        "logos/fundacion-magdalena-moriche/preview/fundacion-magdalena-moriche-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

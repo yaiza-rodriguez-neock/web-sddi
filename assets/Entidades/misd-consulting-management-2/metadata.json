@@ -1,0 +1,71 @@
+{
+    "entity": "MISD CONSULTING AND MANAGEMENT S.L.",
+    "resolved_entity_name": null,
+    "official_site": "https://misdconsulting.com/",
+    "supporting_evidence_urls": [
+        "https://misdconsulting.com/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://misdconsulting.com/img/misdconsulting-logo-normal.svg",
+    "source_file": "logos/misd-consulting-management-2/original/misd-consulting-management-2-source.svg",
+    "source_format": "SVG",
+    "source_dimensions_px": {
+        "width": 485,
+        "height": 158
+    },
+    "source_color_mode": "Vectorial",
+    "source_alpha_channel": true,
+    "source_background": "Transparente; sin fondo de lienzo.",
+    "source_byte_size": 8928,
+    "source_sha256": "970452f4cad14b651bf7f88633bb84525fda972dc00186164ef839ab4d84f817",
+    "normalized_file": "logos/misd-consulting-management-2/normalized/misd-consulting-management-2-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 49,
+        "top": 6,
+        "right": 431,
+        "bottom": 114
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 382,
+        "height": 108
+    },
+    "normalized_byte_size": 13925,
+    "normalized_sha256": "19616703e00ba5278c73cde83dd1eea351bdeffac56fd7a949be5b9773f2dcc6",
+    "preview_files": [
+        "logos/misd-consulting-management-2/preview/misd-consulting-management-2-preview-480x120.png",
+        "logos/misd-consulting-management-2/preview/misd-consulting-management-2-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente SVG oficial rasterizada a PNG y centrada en canvas transparente 480Ã—120.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    },
+    "source_declared_viewBox": "51 41 485 158"
+}

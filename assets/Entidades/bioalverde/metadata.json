@@ -1,0 +1,70 @@
+{
+    "entity": "BIOALVERDE (MODA RE)",
+    "resolved_entity_name": null,
+    "official_site": "https://www.bioalverde.com/",
+    "supporting_evidence_urls": [
+        "https://www.bioalverde.com/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://bioalverde.com/wp-content/uploads/logo.png",
+    "source_file": "logos/bioalverde/original/bioalverde-source.png",
+    "source_format": "PNG",
+    "source_dimensions_px": {
+        "width": 173,
+        "height": 170
+    },
+    "source_color_mode": "RGBA",
+    "source_alpha_channel": true,
+    "source_background": "Transparencia conservada.",
+    "source_byte_size": 17361,
+    "source_sha256": "e90499c11e91d3ea637fde60fc66b94297696de2197e2e8d6727e4a3c8ad873a",
+    "normalized_file": "logos/bioalverde/normalized/bioalverde-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 185,
+        "top": 6,
+        "right": 295,
+        "bottom": 114
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 110,
+        "height": 108
+    },
+    "normalized_byte_size": 18084,
+    "normalized_sha256": "b76c059ca08c5d291739c1c6b57015f581dcb4c8097e25288bbaa64e779a37ec",
+    "preview_files": [
+        "logos/bioalverde/preview/bioalverde-preview-480x120.png",
+        "logos/bioalverde/preview/bioalverde-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

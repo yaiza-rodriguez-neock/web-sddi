@@ -1,0 +1,70 @@
+{
+    "entity": "RETEXSOL (MODA RE)",
+    "resolved_entity_name": null,
+    "official_site": "https://empresesinserciobalears.org/es/project/retexsol/",
+    "supporting_evidence_urls": [
+        "https://empresesinserciobalears.org/es/project/retexsol/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://empresesinserciobalears.org/wp-content/uploads/2024/03/retexsol-vectorizado-1-e1710920757355.png",
+    "source_file": "logos/retexsol/original/retexsol-source.png",
+    "source_format": "PNG",
+    "source_dimensions_px": {
+        "width": 1500,
+        "height": 1540
+    },
+    "source_color_mode": "RGB",
+    "source_alpha_channel": false,
+    "source_background": "Fondo no transparente; se eliminaron pÃ­xeles near-white del fondo claro confirmado.",
+    "source_byte_size": 217061,
+    "source_sha256": "0675d19be66a7b2170ec7afe72a0f044f1f0c29e6137bd2877cd92b3d02c91e5",
+    "normalized_file": "logos/retexsol/normalized/retexsol-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 190,
+        "top": 9,
+        "right": 286,
+        "bottom": 112
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 96,
+        "height": 103
+    },
+    "normalized_byte_size": 16355,
+    "normalized_sha256": "4f1c830d89248271502224a57cd317dca50e25947b26ff43a9718a3ca8c789ce",
+    "preview_files": [
+        "logos/retexsol/preview/retexsol-preview-480x120.png",
+        "logos/retexsol/preview/retexsol-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a. Se eliminÃ³ el fondo near-white confirmado.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "entity": "DINAMICS",
+    "resolved_entity_name": null,
+    "official_site": "https://www.dinamics.coop/",
+    "supporting_evidence_urls": [
+        "https://www.dinamics.coop/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://www.dinamics.coop/sites/default/files/logo_dinamics_2_0_3.png",
+    "source_file": "logos/dinamics/original/dinamics-source.png",
+    "source_format": "PNG",
+    "source_dimensions_px": {
+        "width": 200,
+        "height": 44
+    },
+    "source_color_mode": "RGBA",
+    "source_alpha_channel": true,
+    "source_background": "Transparencia conservada.",
+    "source_byte_size": 62414,
+    "source_sha256": "7a3ee3056ca66bc28bcaef74c6cd03cc167393312b330e5f8a8faf1db9cb9a13",
+    "normalized_file": "logos/dinamics/normalized/dinamics-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 143,
+        "top": 41,
+        "right": 336,
+        "bottom": 79
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 193,
+        "height": 38
+    },
+    "normalized_byte_size": 4441,
+    "normalized_sha256": "6621c782a973becf1ee4f24207095210a64cb82a5a9a44c9799f504c8dd24783",
+    "preview_files": [
+        "logos/dinamics/preview/dinamics-preview-480x120.png",
+        "logos/dinamics/preview/dinamics-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "entity": "FUNDACIÓN ESPLAI",
+    "resolved_entity_name": null,
+    "official_site": "https://fundacionesplai.org/",
+    "supporting_evidence_urls": [
+        "https://fundacionesplai.org/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://fundacionesplai.org/wp-content/uploads/2025/02/logo-FE_vertical-RGB_COLOR_TRANSP.png",
+    "source_file": "logos/fundacion-esplai/original/fundacion-esplai-source.png",
+    "source_format": "PNG",
+    "source_dimensions_px": {
+        "width": 998,
+        "height": 649
+    },
+    "source_color_mode": "RGBA",
+    "source_alpha_channel": true,
+    "source_background": "Transparencia conservada.",
+    "source_byte_size": 42905,
+    "source_sha256": "f8e212e70445e444bc4f098b947f27fb7d6fd7704cddf00be625e107a3465f02",
+    "normalized_file": "logos/fundacion-esplai/normalized/fundacion-esplai-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 161,
+        "top": 11,
+        "right": 317,
+        "bottom": 110
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 156,
+        "height": 99
+    },
+    "normalized_byte_size": 14041,
+    "normalized_sha256": "029b76d86fd841e9ea187e7234b9c8abb8d95f16979b0fbf8eb9fc6b32db43fb",
+    "preview_files": [
+        "logos/fundacion-esplai/preview/fundacion-esplai-preview-480x120.png",
+        "logos/fundacion-esplai/preview/fundacion-esplai-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

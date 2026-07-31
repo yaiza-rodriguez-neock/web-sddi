@@ -1,0 +1,70 @@
+{
+    "entity": "FUNDHEX",
+    "resolved_entity_name": null,
+    "official_site": "https://fundhex.es/",
+    "supporting_evidence_urls": [
+        "https://www.fundhex.org/que-es-fundhex/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://www.fundhex.org/wp-content/uploads/2018/03/logo-fundhex.png",
+    "source_file": "logos/fundhex/original/fundhex-source.png",
+    "source_format": "PNG",
+    "source_dimensions_px": {
+        "width": 1560,
+        "height": 537
+    },
+    "source_color_mode": "RGBA",
+    "source_alpha_channel": true,
+    "source_background": "Transparencia conservada.",
+    "source_byte_size": 104087,
+    "source_sha256": "231650d3d7b8399c88629834f3e50efd75669027641f453f454a2b2f9f6810fc",
+    "normalized_file": "logos/fundhex/normalized/fundhex-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 83,
+        "top": 6,
+        "right": 397,
+        "bottom": 114
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 314,
+        "height": 108
+    },
+    "normalized_byte_size": 27697,
+    "normalized_sha256": "2139f76b73987f91d5f385859ef14a3941a3dcf37fabb6457a60b1abda88c11a",
+    "preview_files": [
+        "logos/fundhex/preview/fundhex-preview-480x120.png",
+        "logos/fundhex/preview/fundhex-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "entity": "PERCEPTION TECHNOLOGIES",
+    "resolved_entity_name": "Perception Technologies S.L. / Perception",
+    "official_site": "https://www.perception.es/",
+    "supporting_evidence_urls": [
+        "https://www.perception.es/",
+        "https://www.perception.es/legales/aviso-legal"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": "Proveedor tecnologico y de servicios digitales: desarrollo web, apps, ticketing, e-commerce y marketing digital.",
+    "source_asset_url": "https://www.perception.es/recursos/img/logo.svg?v=1636530483",
+    "source_file": "logos/perception-technologies/original/perception-technologies-source.svg",
+    "source_format": "SVG",
+    "source_dimensions_px": {
+        "width": 200,
+        "height": 32
+    },
+    "source_color_mode": "Vectorial",
+    "source_alpha_channel": true,
+    "source_background": "Transparente; sin fondo de lienzo.",
+    "source_byte_size": 4386,
+    "source_sha256": "d78e8e9ef1aba72577d83ba24f4b438250692ed7bc1940491c3f0848c174259f",
+    "normalized_file": "logos/perception-technologies/normalized/perception-technologies-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 140,
+        "top": 44,
+        "right": 340,
+        "bottom": 76
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 200,
+        "height": 32
+    },
+    "normalized_byte_size": 4434,
+    "normalized_sha256": "0f62054f0fa027d39e8d3daa26694ef34ad5f9d13cfdff4dd9ff66093d5347d4",
+    "preview_files": [
+        "logos/perception-technologies/preview/perception-technologies-preview-480x120.png",
+        "logos/perception-technologies/preview/perception-technologies-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente SVG oficial rasterizada a PNG; canvas transparente 480×120, marca centrada, proporción conservada y área visible máxima 432×108.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [
+        "La fuente original es SVG; se rasterizó sin redibujar el contenido vectorial."
+    ],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorización de publicación del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

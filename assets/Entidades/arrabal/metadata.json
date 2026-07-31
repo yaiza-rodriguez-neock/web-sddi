@@ -1,0 +1,71 @@
+{
+    "entity": "ARRABAL",
+    "resolved_entity_name": "Asociacion Arrabal-AID",
+    "official_site": "https://asociacionarrabal.org/",
+    "supporting_evidence_urls": [
+        "https://asociacionarrabal.org/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": "Directo: inclusion social, empleo y apoyo a personas en situacion de vulnerabilidad.",
+    "source_asset_url": "https://asociacionarrabal.org/wp-content/uploads/logo-asociacion-arrabal.svg",
+    "source_file": "logos/arrabal/original/arrabal-source.svg",
+    "source_format": "SVG",
+    "source_dimensions_px": {
+        "width": 248,
+        "height": 91
+    },
+    "source_color_mode": "Vectorial",
+    "source_alpha_channel": true,
+    "source_background": "Transparente; sin fondo de lienzo.",
+    "source_byte_size": 16779,
+    "source_sha256": "c68c4da9ade893b5d3f0a3b22f03e9ca093bdd9e7092cb2f40656efc9b1256e8",
+    "normalized_file": "logos/arrabal/normalized/arrabal-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 24,
+        "top": 19,
+        "right": 456,
+        "bottom": 101
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 432,
+        "height": 82
+    },
+    "normalized_byte_size": 13726,
+    "normalized_sha256": "692c9e292cc5b9658fe60df87a3c30ef8aad550483ab308a72b65233e89e41f6",
+    "preview_files": [
+        "logos/arrabal/preview/arrabal-preview-480x120.png",
+        "logos/arrabal/preview/arrabal-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente SVG oficial rasterizada a PNG y centrada en canvas transparente 480×120.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorización de publicación del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    },
+    "source_declared_viewBox": "0 0 248 91"
+}

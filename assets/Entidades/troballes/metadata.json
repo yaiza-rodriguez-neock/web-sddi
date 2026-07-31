@@ -1,0 +1,70 @@
+{
+    "entity": "TROBALLES EMPRESA D'INSERCIÓ SL (MODA RE)",
+    "resolved_entity_name": null,
+    "official_site": "https://troballes.com.es/",
+    "supporting_evidence_urls": [
+        "https://troballes.com.es/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://troballes.com.es/wp-content/uploads/2024/01/troballes_logo.png",
+    "source_file": "logos/troballes/original/troballes-source.png",
+    "source_format": "PNG",
+    "source_dimensions_px": {
+        "width": 249,
+        "height": 81
+    },
+    "source_color_mode": "RGBA",
+    "source_alpha_channel": true,
+    "source_background": "Transparencia conservada.",
+    "source_byte_size": 8892,
+    "source_sha256": "ca7cbff864c1c2dead05bace4d3cdf1dd15536a9e0c40598ebc1d6d9e0af1ad1",
+    "normalized_file": "logos/troballes/normalized/troballes-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 115,
+        "top": 21,
+        "right": 362,
+        "bottom": 98
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 247,
+        "height": 77
+    },
+    "normalized_byte_size": 9404,
+    "normalized_sha256": "03efda58dce4b5d2adc5bef90048c9153af5dd51deb49b0dbb751af23f0a383a",
+    "preview_files": [
+        "logos/troballes/preview/troballes-preview-480x120.png",
+        "logos/troballes/preview/troballes-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

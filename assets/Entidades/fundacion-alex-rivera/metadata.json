@@ -1,0 +1,70 @@
+{
+    "entity": "FUNDACIÓN ALEX RIVERA",
+    "resolved_entity_name": null,
+    "official_site": "https://fundacionalexrivera.org/",
+    "supporting_evidence_urls": [
+        "https://fundacionalexrivera.org/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://fundacionalexrivera.org/wp-content/uploads/2023/09/logo-FundacionAlexRivera.png",
+    "source_file": "logos/fundacion-alex-rivera/original/fundacion-alex-rivera-source.png",
+    "source_format": "PNG",
+    "source_dimensions_px": {
+        "width": 523,
+        "height": 404
+    },
+    "source_color_mode": "RGBA",
+    "source_alpha_channel": true,
+    "source_background": "Transparencia conservada.",
+    "source_byte_size": 200236,
+    "source_sha256": "fb73999b1bcafc5e9a38e91414afb2fd3761350171159f15d54339ba152666cb",
+    "normalized_file": "logos/fundacion-alex-rivera/normalized/fundacion-alex-rivera-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 171,
+        "top": 6,
+        "right": 309,
+        "bottom": 111
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 138,
+        "height": 105
+    },
+    "normalized_byte_size": 23138,
+    "normalized_sha256": "fa762f72f484361813b58773ee372e35b10d25bcf39bfb637cefea2c406fa1be",
+    "preview_files": [
+        "logos/fundacion-alex-rivera/preview/fundacion-alex-rivera-preview-480x120.png",
+        "logos/fundacion-alex-rivera/preview/fundacion-alex-rivera-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

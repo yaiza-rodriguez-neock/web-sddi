@@ -1,0 +1,70 @@
+{
+    "entity": "CARTAES (MODA RE)",
+    "resolved_entity_name": null,
+    "official_site": "https://cartaestarrega.com/",
+    "supporting_evidence_urls": [
+        "https://cartaestarrega.com/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://cartaestarrega.com/wp-content/uploads/2017/10/cartaes_logo.png",
+    "source_file": "logos/cartaes/original/cartaes-source.png",
+    "source_format": "PNG",
+    "source_dimensions_px": {
+        "width": 640,
+        "height": 243
+    },
+    "source_color_mode": "RGBA",
+    "source_alpha_channel": true,
+    "source_background": "Transparencia conservada.",
+    "source_byte_size": 12727,
+    "source_sha256": "553d57a8464a165c32e75163fec0269115d8aba5b5c268d09e4ae2f83cbd05a9",
+    "normalized_file": "logos/cartaes/normalized/cartaes-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 104,
+        "top": 15,
+        "right": 376,
+        "bottom": 105
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 272,
+        "height": 90
+    },
+    "normalized_byte_size": 18649,
+    "normalized_sha256": "605fe6fe63fd7e42e25455816857ac28f9f616f819cb078baa76994eb0d83d2e",
+    "preview_files": [
+        "logos/cartaes/preview/cartaes-preview-480x120.png",
+        "logos/cartaes/preview/cartaes-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

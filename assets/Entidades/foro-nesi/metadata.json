@@ -1,0 +1,71 @@
+{
+    "entity": "FORO NESI",
+    "resolved_entity_name": "Foro NESI",
+    "official_site": "https://nesi.es/",
+    "supporting_evidence_urls": [
+        "https://nesi.es/",
+        "https://nesi.es/preguntas-frecuentes/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": "Directo: innovacion social, cambio sistemico, impacto, formacion y politicas publicas.",
+    "source_asset_url": "https://nesi.es/wp-content/uploads/2019/06/logo_NESI_2019_web.png",
+    "source_file": "logos/foro-nesi/original/foro-nesi-source.png",
+    "source_format": "PNG",
+    "source_dimensions_px": {
+        "width": 300,
+        "height": 128
+    },
+    "source_color_mode": "RGBA",
+    "source_alpha_channel": true,
+    "source_background": "Transparencia conservada.",
+    "source_byte_size": 36924,
+    "source_sha256": "28766fe9a3b413405bc32dd27a122b48069f598cd791035e92e2eb0e35f45551",
+    "normalized_file": "logos/foro-nesi/normalized/foro-nesi-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 126,
+        "top": 17,
+        "right": 351,
+        "bottom": 103
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 225,
+        "height": 86
+    },
+    "normalized_byte_size": 18226,
+    "normalized_sha256": "33ba6f40b94981de61574db7cf15141c7f794dbf1f4548dbe9927d5b0cb302b1",
+    "preview_files": [
+        "logos/foro-nesi/preview/foro-nesi-preview-480x120.png",
+        "logos/foro-nesi/preview/foro-nesi-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

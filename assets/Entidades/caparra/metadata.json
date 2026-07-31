@@ -1,0 +1,70 @@
+{
+    "entity": "CAPARRA (MODA RE)",
+    "resolved_entity_name": null,
+    "official_site": "https://www.caritasplasencia.org/noticias/grupo-caparra-refuerza-en-2025-su-impacto-social-y-ambiental-dentro-de-la-cooperativa-moda-re-gracias-a-su-servicio-en-la-diocesis-de-plasencia/",
+    "supporting_evidence_urls": [
+        "https://www.caritasplasencia.org/noticias/grupo-caparra-refuerza-en-2025-su-impacto-social-y-ambiental-dentro-de-la-cooperativa-moda-re-gracias-a-su-servicio-en-la-diocesis-de-plasencia/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://www.caritasplasencia.org/main-files/uploads/sites/72/2021/08/logo_rojo.jpg",
+    "source_file": "logos/caparra/original/caparra-source.jpg",
+    "source_format": "JPEG",
+    "source_dimensions_px": {
+        "width": 280,
+        "height": 280
+    },
+    "source_color_mode": "RGB",
+    "source_alpha_channel": false,
+    "source_background": "Fondo no transparente; se eliminaron pÃ­xeles near-white del fondo claro confirmado.",
+    "source_byte_size": 20361,
+    "source_sha256": "df6e7bfb01c566b15d26b70b9e644e6902f6439b31b9995bdb00d3189c638ab4",
+    "normalized_file": "logos/caparra/normalized/caparra-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 190,
+        "top": 22,
+        "right": 287,
+        "bottom": 89
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 97,
+        "height": 67
+    },
+    "normalized_byte_size": 10664,
+    "normalized_sha256": "90ea8dbe5725ceccab510081d1b94987f33babe10ade423c8fd116707cf64e9f",
+    "preview_files": [
+        "logos/caparra/preview/caparra-preview-480x120.png",
+        "logos/caparra/preview/caparra-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a. Se eliminÃ³ el fondo near-white confirmado.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

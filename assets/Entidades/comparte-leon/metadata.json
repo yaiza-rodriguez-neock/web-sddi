@@ -1,0 +1,70 @@
+{
+    "entity": "COMPARTE LEON SL (MODA RE)",
+    "resolved_entity_name": null,
+    "official_site": "https://comparteleon.org/",
+    "supporting_evidence_urls": [
+        "https://comparteleon.org/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://comparteleon.org/wp-content/uploads/2023/09/logo-fse.jpeg",
+    "source_file": "logos/comparte-leon/original/comparte-leon-source.jpeg",
+    "source_format": "JPEG",
+    "source_dimensions_px": {
+        "width": 1917,
+        "height": 602
+    },
+    "source_color_mode": "RGB",
+    "source_alpha_channel": false,
+    "source_background": "Fondo no transparente; se eliminaron pÃ­xeles near-white del fondo claro confirmado.",
+    "source_byte_size": 65219,
+    "source_sha256": "063920b4176b9b835f1706bf57a2b1c8c2a44730538a954c7858b98879dbf6f9",
+    "normalized_file": "logos/comparte-leon/normalized/comparte-leon-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 68,
+        "top": 6,
+        "right": 412,
+        "bottom": 114
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 344,
+        "height": 108
+    },
+    "normalized_byte_size": 30763,
+    "normalized_sha256": "e68665ec228f48c54f5c3c44af6cfec9f3cd3d4957ad377a3bd2c0f2445edd37",
+    "preview_files": [
+        "logos/comparte-leon/preview/comparte-leon-preview-480x120.png",
+        "logos/comparte-leon/preview/comparte-leon-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a. Se eliminÃ³ el fondo near-white confirmado.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

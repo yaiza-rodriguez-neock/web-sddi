@@ -1,0 +1,70 @@
+{
+    "entity": "ASOCIACIÓN ESCUELAS DE SEGUNDA OPORTUNIDAD",
+    "resolved_entity_name": null,
+    "official_site": "https://e2oespana.org/",
+    "supporting_evidence_urls": [
+        "https://e2oespana.org/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://e2oespana.org/wp-content/uploads/cropped-LOGO-OFICIAL-E2OESPANA1.png",
+    "source_file": "logos/asociacion-escuelas-segunda-oportunidad/original/asociacion-escuelas-segunda-oportunidad-source.png",
+    "source_format": "PNG",
+    "source_dimensions_px": {
+        "width": 200,
+        "height": 203
+    },
+    "source_color_mode": "RGB",
+    "source_alpha_channel": false,
+    "source_background": "Fondo no transparente; se eliminaron pÃ­xeles near-white del fondo claro confirmado.",
+    "source_byte_size": 22302,
+    "source_sha256": "9674625dcdc3e3107133fec258386dcf59a81f7c5f9bd42cfadd15322097ddf4",
+    "normalized_file": "logos/asociacion-escuelas-segunda-oportunidad/normalized/asociacion-escuelas-segunda-oportunidad-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 187,
+        "top": 6,
+        "right": 293,
+        "bottom": 114
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 106,
+        "height": 108
+    },
+    "normalized_byte_size": 18879,
+    "normalized_sha256": "c3960f0cb93e72198e8405a7cf47f4bb2fb2d68ef3ff4e78a1a0ba2db20436ca",
+    "preview_files": [
+        "logos/asociacion-escuelas-segunda-oportunidad/preview/asociacion-escuelas-segunda-oportunidad-preview-480x120.png",
+        "logos/asociacion-escuelas-segunda-oportunidad/preview/asociacion-escuelas-segunda-oportunidad-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a. Se eliminÃ³ el fondo near-white confirmado.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

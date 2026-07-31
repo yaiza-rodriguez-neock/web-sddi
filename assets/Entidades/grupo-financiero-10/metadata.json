@@ -1,0 +1,70 @@
+{
+    "entity": "GRUPO FINANCIERO 10 S.L.",
+    "resolved_entity_name": null,
+    "official_site": "https://grupofinanciero10.com/",
+    "supporting_evidence_urls": [
+        "https://grupofinanciero10.com/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://grupofinanciero10.com/img/Grupo_Financiero_10_logo.png",
+    "source_file": "logos/grupo-financiero-10/original/grupo-financiero-10-source.png",
+    "source_format": "PNG",
+    "source_dimensions_px": {
+        "width": 2000,
+        "height": 801
+    },
+    "source_color_mode": "P",
+    "source_alpha_channel": true,
+    "source_background": "Transparencia conservada.",
+    "source_byte_size": 19883,
+    "source_sha256": "82600392a40826527858ba820edb613ea20887e86ae05fe631c38e793e0dd94d",
+    "normalized_file": "logos/grupo-financiero-10/normalized/grupo-financiero-10-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 105,
+        "top": 6,
+        "right": 375,
+        "bottom": 114
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 270,
+        "height": 108
+    },
+    "normalized_byte_size": 9453,
+    "normalized_sha256": "5c7855cf8697083591c33eb2279e56ab2793727dfc73f05853fa6bf4ab79bd5b",
+    "preview_files": [
+        "logos/grupo-financiero-10/preview/grupo-financiero-10-preview-480x120.png",
+        "logos/grupo-financiero-10/preview/grupo-financiero-10-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

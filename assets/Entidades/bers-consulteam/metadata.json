@@ -1,0 +1,70 @@
+{
+    "entity": "BERS CONSULTEAM TRANSFORMACIÓN DIGITAL SL",
+    "resolved_entity_name": null,
+    "official_site": "http://www.bersconsulteam.com/",
+    "supporting_evidence_urls": [
+        "https://www.bersconsulteam.com/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://www.bersconsulteam.com/wp-content/uploads/2017/09/Logo-Bers.jpg",
+    "source_file": "logos/bers-consulteam/original/bers-consulteam-source.jpg",
+    "source_format": "JPEG",
+    "source_dimensions_px": {
+        "width": 3508,
+        "height": 2480
+    },
+    "source_color_mode": "RGB",
+    "source_alpha_channel": false,
+    "source_background": "Fondo no transparente; se eliminaron pÃ­xeles near-white del fondo claro confirmado.",
+    "source_byte_size": 296797,
+    "source_sha256": "7bd19724b45b22b7c0f72c8d90bde782e49fbe2bd8068199e7ace6d92e69daf3",
+    "normalized_file": "logos/bers-consulteam/normalized/bers-consulteam-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 171,
+        "top": 25,
+        "right": 308,
+        "bottom": 95
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 137,
+        "height": 70
+    },
+    "normalized_byte_size": 12263,
+    "normalized_sha256": "81fe3287bd44e6f79606c76bb04e46046f9c6f1f0ac809635ed29fad5d507178",
+    "preview_files": [
+        "logos/bers-consulteam/preview/bers-consulteam-preview-480x120.png",
+        "logos/bers-consulteam/preview/bers-consulteam-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a. Se eliminÃ³ el fondo near-white confirmado.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

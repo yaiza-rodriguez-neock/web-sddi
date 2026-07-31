@@ -1,0 +1,72 @@
+{
+    "entity": "NIDDO APP",
+    "resolved_entity_name": "Niddo App / LAMI HOLD S.L.",
+    "official_site": "https://niddoapp.com/es",
+    "supporting_evidence_urls": [
+        "https://niddoapp.com/es",
+        "https://niddo-web.web.app/es",
+        "https://play.google.com/store/apps/details?id=com.niddo.app"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": "Herramienta tecnologica para coordinacion de cuidados y co-parentalidad; potencial de bienestar familiar, no entidad social estricta.",
+    "source_asset_url": "https://niddoapp.com/logo-nav.png",
+    "source_file": "logos/niddo-app/original/niddo-app-source.png",
+    "source_format": "PNG",
+    "source_dimensions_px": {
+        "width": 221,
+        "height": 72
+    },
+    "source_color_mode": "RGBA",
+    "source_alpha_channel": true,
+    "source_background": "Transparencia conservada.",
+    "source_byte_size": 5212,
+    "source_sha256": "561e1b7c68e1165a8ca47f3b98ce0c713ff7a4c35e1af06ecb5932b61e1bcd61",
+    "normalized_file": "logos/niddo-app/normalized/niddo-app-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 129,
+        "top": 24,
+        "right": 350,
+        "bottom": 96
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 221,
+        "height": 72
+    },
+    "normalized_byte_size": 4489,
+    "normalized_sha256": "a3b94cb9652c92a3c3be11b01400cf3256faaaecf114f83c7ff6770a2a61d733",
+    "preview_files": [
+        "logos/niddo-app/preview/niddo-app-preview-480x120.png",
+        "logos/niddo-app/preview/niddo-app-preview-480x120-dark.png"
+    ],
+    "transformation": "Canvas transparente 480×120, marca centrada, proporción conservada, sin upscale y transparencia del archivo fuente conservada.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorización de publicación del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

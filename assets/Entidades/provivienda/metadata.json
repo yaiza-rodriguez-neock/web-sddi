@@ -1,0 +1,72 @@
+{
+    "entity": "PROVIVIENDA",
+    "resolved_entity_name": "Provivienda",
+    "official_site": "https://provivienda.org/",
+    "supporting_evidence_urls": [
+        "https://provivienda.org/",
+        "https://provivienda.org/somos/",
+        "https://provivienda.org/nueva-imagen-corporativa/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": "Directo: entidad social especializada en vivienda, derechos habitacionales y vulnerabilidad.",
+    "source_asset_url": "https://provivienda.org/wp-content/uploads/Logosin-claim_Provivienda.png",
+    "source_file": "logos/provivienda/original/provivienda-source.png",
+    "source_format": "PNG",
+    "source_dimensions_px": {
+        "width": 1669,
+        "height": 242
+    },
+    "source_color_mode": "RGBA",
+    "source_alpha_channel": true,
+    "source_background": "Transparencia conservada.",
+    "source_byte_size": 19121,
+    "source_sha256": "281f5babc430565775ced0ceb5e4080299bed8aff9aa0d5ff51a302a84671c23",
+    "normalized_file": "logos/provivienda/normalized/provivienda-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 24,
+        "top": 28,
+        "right": 456,
+        "bottom": 91
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 432,
+        "height": 63
+    },
+    "normalized_byte_size": 11260,
+    "normalized_sha256": "31e955d7c8daaddf3a0e28a566a0c4449b03c41a106559febdb582cc12888e69",
+    "preview_files": [
+        "logos/provivienda/preview/provivienda-preview-480x120.png",
+        "logos/provivienda/preview/provivienda-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480×120, proporción conservada y sin upscale; se preservó transparencia cuando existía.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorización de publicación del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

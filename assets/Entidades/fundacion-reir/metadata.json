@@ -1,0 +1,70 @@
+{
+    "entity": "FUNDACIÓN REIR",
+    "resolved_entity_name": null,
+    "official_site": "https://reir.cat/",
+    "supporting_evidence_urls": [
+        "https://reir.cat/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://reir.cat/wp-content/uploads/2023/02/logo-associacio-REIR.png",
+    "source_file": "logos/fundacion-reir/original/fundacion-reir-source.png",
+    "source_format": "PNG",
+    "source_dimensions_px": {
+        "width": 386,
+        "height": 214
+    },
+    "source_color_mode": "P",
+    "source_alpha_channel": true,
+    "source_background": "Transparencia conservada.",
+    "source_byte_size": 2728,
+    "source_sha256": "ac1cfc9d06ab8950267d47f08b298167b3e67ae523e069592ff6edf60de3a831",
+    "normalized_file": "logos/fundacion-reir/normalized/fundacion-reir-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 142,
+        "top": 6,
+        "right": 337,
+        "bottom": 114
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 195,
+        "height": 108
+    },
+    "normalized_byte_size": 8726,
+    "normalized_sha256": "e7a18946883031bc0088854c80a701bae690cd44564077e89b65f40d30428eb3",
+    "preview_files": [
+        "logos/fundacion-reir/preview/fundacion-reir-preview-480x120.png",
+        "logos/fundacion-reir/preview/fundacion-reir-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

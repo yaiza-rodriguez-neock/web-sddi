@@ -1,0 +1,72 @@
+{
+    "entity": "IMMERSIUM STUDIO",
+    "resolved_entity_name": "Immersium Studio SL",
+    "official_site": "https://immersiumstudio.com/",
+    "supporting_evidence_urls": [
+        "https://immersiumstudio.com/",
+        "https://immersiumstudio.com/aviso-legal/",
+        "https://immersiumstudio.com/contacto/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": "Proveedor de tecnologia inmersiva y formacion mediante realidad virtual; EdTech/innovacion.",
+    "source_asset_url": "https://immersiumstudio.com/wp-content/uploads/2022/04/immersium-logo-gpd.png",
+    "source_file": "logos/immersium-studio/original/immersium-studio-source.png",
+    "source_format": "PNG",
+    "source_dimensions_px": {
+        "width": 260,
+        "height": 81
+    },
+    "source_color_mode": "RGB",
+    "source_alpha_channel": false,
+    "source_background": "Fondo claro; se eliminaron píxeles near-white confirmados como fondo.",
+    "source_byte_size": 20275,
+    "source_sha256": "ac1a496d5f9da5113d94e254e057481428da47d24d1e631eab8bab75fbf229ea",
+    "normalized_file": "logos/immersium-studio/normalized/immersium-studio-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 110,
+        "top": 20,
+        "right": 370,
+        "bottom": 98
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 260,
+        "height": 78
+    },
+    "normalized_byte_size": 18881,
+    "normalized_sha256": "6772666eb29079a056b29770ed814946dbf0ab6dd8b8679071e7fd11fc03b4dd",
+    "preview_files": [
+        "logos/immersium-studio/preview/immersium-studio-preview-480x120.png",
+        "logos/immersium-studio/preview/immersium-studio-preview-480x120-dark.png"
+    ],
+    "transformation": "Canvas transparente 480×120, marca centrada, proporción conservada, sin upscale y eliminación de píxeles near-white del fondo claro confirmado.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorización de publicación del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "entity": "F XAVIER PAULES (MODA RE)",
+    "resolved_entity_name": null,
+    "official_site": "https://www.instagram.com/fundacio_xavier_paules/?hl=es",
+    "supporting_evidence_urls": [
+        "https://www.instagram.com/fundacio_xavier_paules/?hl=es"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://www.instagram.com/fundacio_xavier_paules/?hl=es",
+    "source_file": "logos/f-xavier-paules/original/f-xavier-paules-source.bin",
+    "source_format": "JPEG",
+    "source_dimensions_px": {
+        "width": 100,
+        "height": 100
+    },
+    "source_color_mode": "RGB",
+    "source_alpha_channel": false,
+    "source_background": "Fondo no transparente; se eliminaron pÃ­xeles near-white del fondo claro confirmado.",
+    "source_byte_size": 2357,
+    "source_sha256": "17b75f6462877c0fcb031a07136fa81f68c43fb8ab66f0ed4d85ae83c48a852e",
+    "normalized_file": "logos/f-xavier-paules/normalized/f-xavier-paules-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 202,
+        "top": 27,
+        "right": 285,
+        "bottom": 90
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 83,
+        "height": 63
+    },
+    "normalized_byte_size": 8270,
+    "normalized_sha256": "8a965c0520e30a77d1c0f93616995721f26f517b54fd9c25a572f1764e54e9f5",
+    "preview_files": [
+        "logos/f-xavier-paules/preview/f-xavier-paules-preview-480x120.png",
+        "logos/f-xavier-paules/preview/f-xavier-paules-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a. Se eliminÃ³ el fondo near-white confirmado.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

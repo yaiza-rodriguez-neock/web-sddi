@@ -1,0 +1,70 @@
+{
+    "entity": "LABORAFIT (MODA RE)",
+    "resolved_entity_name": null,
+    "official_site": "https://www.caritasmadrid.org/empresas-solidarias",
+    "supporting_evidence_urls": [
+        "https://www.amei.es/entidad/laborafit/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://www.amei.es/wp-content/uploads/2022/05/laborafit-ficha-ok.png",
+    "source_file": "logos/laborafit-moda-re/original/laborafit-moda-re-source.png",
+    "source_format": "PNG",
+    "source_dimensions_px": {
+        "width": 311,
+        "height": 149
+    },
+    "source_color_mode": "P",
+    "source_alpha_channel": false,
+    "source_background": "Fondo no transparente; se eliminaron pÃ­xeles near-white del fondo claro confirmado.",
+    "source_byte_size": 11303,
+    "source_sha256": "dd4fbe57720b27d737490244140d64780ba9f6138e6607b190be9adcfa8c9c03",
+    "normalized_file": "logos/laborafit-moda-re/normalized/laborafit-moda-re-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 182,
+        "top": 6,
+        "right": 297,
+        "bottom": 114
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 115,
+        "height": 108
+    },
+    "normalized_byte_size": 14732,
+    "normalized_sha256": "0d1628777bc21cf11335ca8b34b047ad1f50b5761696063c6e1aeb4c9a1338ff",
+    "preview_files": [
+        "logos/laborafit-moda-re/preview/laborafit-moda-re-preview-480x120.png",
+        "logos/laborafit-moda-re/preview/laborafit-moda-re-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a. Se eliminÃ³ el fondo near-white confirmado.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

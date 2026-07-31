@@ -1,0 +1,70 @@
+{
+    "entity": "A TODO TRAPO (MODA RE)",
+    "resolved_entity_name": null,
+    "official_site": "https://www.caritas-zaragoza.org/economia_solidaria/latido-verde/",
+    "supporting_evidence_urls": [
+        "https://www.caritas-zaragoza.org/economia_solidaria/latido-verde/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://www.caritas-zaragoza.org/main-files/uploads/sites/35/2020/02/logo_rojo_h.jpg",
+    "source_file": "logos/a-todo-trapo/original/a-todo-trapo-source.jpg",
+    "source_format": "JPEG",
+    "source_dimensions_px": {
+        "width": 364,
+        "height": 198
+    },
+    "source_color_mode": "RGB",
+    "source_alpha_channel": false,
+    "source_background": "Fondo no transparente; se eliminaron pÃ­xeles near-white del fondo claro confirmado.",
+    "source_byte_size": 19350,
+    "source_sha256": "3369a95123b9364a3c5bd7bdd4185508d029712c804acca2d03178efc4a9e257",
+    "normalized_file": "logos/a-todo-trapo/normalized/a-todo-trapo-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 140,
+        "top": 6,
+        "right": 339,
+        "bottom": 114
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 199,
+        "height": 108
+    },
+    "normalized_byte_size": 18177,
+    "normalized_sha256": "2ea59b48e48c2f1b279bd30359b3cd3b7901ba5135bbb300f6d2c596b17d63bb",
+    "preview_files": [
+        "logos/a-todo-trapo/preview/a-todo-trapo-preview-480x120.png",
+        "logos/a-todo-trapo/preview/a-todo-trapo-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a. Se eliminÃ³ el fondo near-white confirmado.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

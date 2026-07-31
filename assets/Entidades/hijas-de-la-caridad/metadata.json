@@ -1,0 +1,70 @@
+{
+    "entity": "HIJAS DE LA CARIDAD",
+    "resolved_entity_name": null,
+    "official_site": "https://hijascaridaden.es/",
+    "supporting_evidence_urls": [
+        "https://hijascaridaden.es/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://hijascaridaden.es/wp-content/uploads/2025/01/Logotipo-Hijas-caridad-Norte.png",
+    "source_file": "logos/hijas-de-la-caridad/original/hijas-de-la-caridad-source.png",
+    "source_format": "PNG",
+    "source_dimensions_px": {
+        "width": 5546,
+        "height": 2467
+    },
+    "source_color_mode": "RGBA",
+    "source_alpha_channel": true,
+    "source_background": "Transparencia conservada.",
+    "source_byte_size": 359895,
+    "source_sha256": "20a669bd1f1672883e8b535a9c7040127b346e71edef606872a90a74b98b33ff",
+    "normalized_file": "logos/hijas-de-la-caridad/normalized/hijas-de-la-caridad-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 133,
+        "top": 16,
+        "right": 346,
+        "bottom": 104
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 213,
+        "height": 88
+    },
+    "normalized_byte_size": 16237,
+    "normalized_sha256": "d743a842149d43ab1be107d0bd86924235dd165d7c43c216ed74ee6ade8a4b73",
+    "preview_files": [
+        "logos/hijas-de-la-caridad/preview/hijas-de-la-caridad-preview-480x120.png",
+        "logos/hijas-de-la-caridad/preview/hijas-de-la-caridad-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

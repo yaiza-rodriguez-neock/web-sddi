@@ -1,0 +1,70 @@
+{
+    "entity": "FUNDACION CIUDADANIA",
+    "resolved_entity_name": null,
+    "official_site": "https://www.fundacionciudadania.es/",
+    "supporting_evidence_urls": [
+        "https://www.fundacionciudadania.es/quienes-somos/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://www.fundacionciudadania.es/wp-content/uploads/2021/11/logo-web-fundacionciudadania.jpg",
+    "source_file": "logos/fundacion-ciudadania/original/fundacion-ciudadania-source.jpg",
+    "source_format": "JPEG",
+    "source_dimensions_px": {
+        "width": 450,
+        "height": 92
+    },
+    "source_color_mode": "RGB",
+    "source_alpha_channel": false,
+    "source_background": "Fondo no transparente; se eliminaron pÃ­xeles near-white del fondo claro confirmado.",
+    "source_byte_size": 10175,
+    "source_sha256": "97dbf0b5529992c6ea5d96e3a744571a51948209c3c94768900ab86db16ff52e",
+    "normalized_file": "logos/fundacion-ciudadania/normalized/fundacion-ciudadania-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 24,
+        "top": 16,
+        "right": 456,
+        "bottom": 104
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 432,
+        "height": 88
+    },
+    "normalized_byte_size": 79455,
+    "normalized_sha256": "6163afc84a29b68a2c6c5b1e361ab1b217c638611c74ab07b90e82a5ac08c937",
+    "preview_files": [
+        "logos/fundacion-ciudadania/preview/fundacion-ciudadania-preview-480x120.png",
+        "logos/fundacion-ciudadania/preview/fundacion-ciudadania-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a. Se eliminÃ³ el fondo near-white confirmado.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "entity": "NANTIKLUM",
+    "resolved_entity_name": null,
+    "official_site": "https://nantiklum.org/?gad_source=1&gad_campaignid=21567701439&gbraid=0AAAAABNPRhatYy7VTxr8XjtHIvhCdBF-L",
+    "supporting_evidence_urls": [
+        "https://nantiklum.org/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://nantiklum.org/wp-content/uploads/2022/11/logo-nantiklum-e1535628944217.png",
+    "source_file": "logos/nantiklum/original/nantiklum-source.png",
+    "source_format": "PNG",
+    "source_dimensions_px": {
+        "width": 150,
+        "height": 150
+    },
+    "source_color_mode": "P",
+    "source_alpha_channel": true,
+    "source_background": "Transparencia conservada.",
+    "source_byte_size": 2635,
+    "source_sha256": "f2b60b36e3b6a89ea3aec8bc0887b3ae44fc588fda2eed0599b9aad63862a22d",
+    "normalized_file": "logos/nantiklum/normalized/nantiklum-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 189,
+        "top": 24,
+        "right": 292,
+        "bottom": 95
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 103,
+        "height": 71
+    },
+    "normalized_byte_size": 6261,
+    "normalized_sha256": "ff209f974edee27acd7a07229133dbf6a1a6252a87769ec6a25873577e3c5dbc",
+    "preview_files": [
+        "logos/nantiklum/preview/nantiklum-preview-480x120.png",
+        "logos/nantiklum/preview/nantiklum-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

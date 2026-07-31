@@ -1,0 +1,81 @@
+{
+    "entity": "ENTORNOS DE FORMACIÃ“N",
+    "resolved_entity_name": "Entornos de FormaciÃ³n S.L. / EdF Global",
+    "official_site": "https://www.edf.global/",
+    "supporting_evidence_urls": [
+        "https://www.edf.global/",
+        "https://www.edf.global/aviso-legal/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": "Proveedor tecnolÃ³gico y de formaciÃ³n: tecnologÃ­a educativa, desarrollo de software, integraciones, contenidos digitales y soluciones e-learning.",
+    "source_asset_url": "https://www.edf.global/wp-content/uploads/2023/06/edf-version03-crop.png",
+    "source_file": "logos/entornos-de-formacion/original/entornos-de-formacion-source.png",
+    "source_format": "PNG",
+    "source_dimensions_px": {
+        "width": 427,
+        "height": 126
+    },
+    "source_color_mode": "P (paleta)",
+    "source_alpha_channel": true,
+    "source_background": "Transparencia indexada; las esquinas son transparentes. Se convirtiÃ³ a RGBA al normalizar.",
+    "source_byte_size": 6495,
+    "source_sha256": "084224e1366b76b8f3b6373c6ce75122e42c206b82bc8fc22c3923946be4994e",
+    "normalized_file": "logos/entornos-de-formacion/normalized/entornos-de-formacion-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 57,
+        "top": 6,
+        "right": 423,
+        "bottom": 114
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 366,
+        "height": 108
+    },
+    "preview_files": [
+        "logos/entornos-de-formacion/preview/entornos-de-formacion-preview-480x120.png",
+        "logos/entornos-de-formacion/preview/entornos-de-formacion-preview-480x120-dark.png"
+    ],
+    "transformation": "Canvas transparente 480×120, área visible máxima 432×108, centrado, proporción conservada, sin upscale y conservación de la transparencia del archivo fuente.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [
+        "El original es PNG indexado (modo P) con transparencia; el modo solicitado RGBA se aplica en la versiÃ³n normalizada."
+    ],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    },
+    "normalized_byte_size": 15733,
+    "normalized_sha256": "399c8c5015782ac4bf109391e84164110cba65e08fa55f5e6fb593710e6d978d",
+    "historical_normalized_files": [
+        "logos/entornos-de-formacion/normalized/entornos-de-formacion-1200x400.png",
+        "logos/entornos-de-formacion/normalized/entornos-de-formacion-600x200_small.png"
+    ],
+    "historical_preview_files": [
+        "logos/entornos-de-formacion/preview/entornos-de-formacion-preview.png",
+        "logos/entornos-de-formacion/preview/entornos-de-formacion-preview-dark.png"
+    ]
+}

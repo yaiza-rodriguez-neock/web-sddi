@@ -1,0 +1,70 @@
+{
+    "entity": "TEJIENDO EMPLEO (MODA RE)",
+    "resolved_entity_name": null,
+    "official_site": "https://www.caritassegovia.es/moda-re/",
+    "supporting_evidence_urls": [
+        "https://www.caritassegovia.es/moda-re/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://www.caritassegovia.es/main-files/uploads/sites/68/2024/04/logo.-rojo-verti.-fondo-transparente.png",
+    "source_file": "logos/tejiendo-empleo/original/tejiendo-empleo-source.png",
+    "source_format": "PNG",
+    "source_dimensions_px": {
+        "width": 651,
+        "height": 609
+    },
+    "source_color_mode": "RGBA",
+    "source_alpha_channel": true,
+    "source_background": "Transparencia conservada.",
+    "source_byte_size": 160562,
+    "source_sha256": "23d2818893161632d0202d99178dc1bbf99c072e6aac051a5cc331abd9087a7b",
+    "normalized_file": "logos/tejiendo-empleo/normalized/tejiendo-empleo-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 193,
+        "top": 16,
+        "right": 285,
+        "bottom": 105
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 92,
+        "height": 89
+    },
+    "normalized_byte_size": 10983,
+    "normalized_sha256": "f5b29b028e9c07b1493cea14d1aa3dea5f9ba8cff44daf8050b27630926d2feb",
+    "preview_files": [
+        "logos/tejiendo-empleo/preview/tejiendo-empleo-preview-480x120.png",
+        "logos/tejiendo-empleo/preview/tejiendo-empleo-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

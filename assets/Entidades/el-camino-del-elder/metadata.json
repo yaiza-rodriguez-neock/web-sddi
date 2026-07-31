@@ -1,0 +1,72 @@
+{
+    "entity": "EL CAMINO DEL ELDER",
+    "resolved_entity_name": "El Camino del Elder",
+    "official_site": "https://elcaminodelelder.com/",
+    "supporting_evidence_urls": [
+        "https://elcaminodelelder.com/",
+        "https://elcaminodelelder.com/somos/",
+        "https://elcaminodelelder.com/elder-kit-espacio-de-datos/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": "Cooperativa de facilitacion, formacion y transformacion organizacional; encaje directo con desarrollo de capacidades e impacto social.",
+    "source_asset_url": "https://elcaminodelelder.com/wp-content/uploads/2019/08/logo-elder-subtitulo-color-web.png",
+    "source_file": "logos/el-camino-del-elder/original/el-camino-del-elder-source.png",
+    "source_format": "PNG",
+    "source_dimensions_px": {
+        "width": 501,
+        "height": 151
+    },
+    "source_color_mode": "RGBA",
+    "source_alpha_channel": true,
+    "source_background": "Transparencia conservada.",
+    "source_byte_size": 29345,
+    "source_sha256": "aecdb86ad436fd17553d776adbc1926488095eade9ffe146d9184b174985e00d",
+    "normalized_file": "logos/el-camino-del-elder/normalized/el-camino-del-elder-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 69,
+        "top": 14,
+        "right": 408,
+        "bottom": 106
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 339,
+        "height": 92
+    },
+    "normalized_byte_size": 37502,
+    "normalized_sha256": "ae23a9d0c8f0c08d679dfd99240a79a0bf0fcac67e0cf920539f1bd0724a8f6a",
+    "preview_files": [
+        "logos/el-camino-del-elder/preview/el-camino-del-elder-preview-480x120.png",
+        "logos/el-camino-del-elder/preview/el-camino-del-elder-preview-480x120-dark.png"
+    ],
+    "transformation": "Canvas transparente 480×120, marca centrada, proporción conservada, sin upscale y transparencia del archivo fuente conservada.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorización de publicación del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

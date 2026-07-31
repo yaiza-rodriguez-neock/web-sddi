@@ -1,0 +1,71 @@
+{
+    "entity": "GRUPO ROS",
+    "resolved_entity_name": "ROS Y ETCETERA S.L. / ROS",
+    "official_site": "https://rosmultimedia.com/",
+    "supporting_evidence_urls": [
+        "https://ros.es/",
+        "https://ros.es/aviso-legal-y-politica-de-privacidad/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": "Agencia creativa y de marketing; proveedor de comunicacion/diseno, encaje indirecto con impacto social.",
+    "source_asset_url": "https://ros.es/wp-content/uploads/2023/01/Grupo-1.png",
+    "source_file": "logos/grupo-ros/original/grupo-ros-source.png",
+    "source_format": "PNG",
+    "source_dimensions_px": {
+        "width": 152,
+        "height": 59
+    },
+    "source_color_mode": "RGBA",
+    "source_alpha_channel": true,
+    "source_background": "Transparencia conservada.",
+    "source_byte_size": 2856,
+    "source_sha256": "c590c3f0e0e0e1a777dd6e557cf988d68f3237ea75126acc4c3340acce4ad312",
+    "normalized_file": "logos/grupo-ros/normalized/grupo-ros-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 164,
+        "top": 30,
+        "right": 316,
+        "bottom": 89
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 152,
+        "height": 59
+    },
+    "normalized_byte_size": 2530,
+    "normalized_sha256": "fd1a309ef64db0dcd81fe74d26f022d8552bd9128d3db67e7383e647b7d49607",
+    "preview_files": [
+        "logos/grupo-ros/preview/grupo-ros-preview-480x120.png",
+        "logos/grupo-ros/preview/grupo-ros-preview-480x120-dark.png"
+    ],
+    "transformation": "Canvas transparente 480×120, marca centrada, proporción conservada, sin upscale y transparencia del archivo fuente conservada.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorización de publicación del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

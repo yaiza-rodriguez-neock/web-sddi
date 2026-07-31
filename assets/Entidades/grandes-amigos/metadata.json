@@ -1,0 +1,70 @@
+{
+    "entity": "GRANDES AMIGOS",
+    "resolved_entity_name": null,
+    "official_site": "https://grandesamigos.org/?gad_source=1&gad_campaignid=21028712060&gbraid=0AAAAADw0db-rwIMsRPLTEDiLSqoQdsSNx",
+    "supporting_evidence_urls": [
+        "https://grandesamigos.org/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://grandesamigos.org/wp-content/uploads/2026/04/LOGO-GACLAIM-e1776250170645.png",
+    "source_file": "logos/grandes-amigos/original/grandes-amigos-source.png",
+    "source_format": "PNG",
+    "source_dimensions_px": {
+        "width": 2028,
+        "height": 890
+    },
+    "source_color_mode": "P",
+    "source_alpha_channel": true,
+    "source_background": "Transparencia conservada.",
+    "source_byte_size": 37568,
+    "source_sha256": "232d5b5f1c97368fb5bcde02d20af23cc73bf8b8bf3104c5b3f6d6d853314f69",
+    "normalized_file": "logos/grandes-amigos/normalized/grandes-amigos-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 117,
+        "top": 6,
+        "right": 363,
+        "bottom": 111
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 246,
+        "height": 105
+    },
+    "normalized_byte_size": 24751,
+    "normalized_sha256": "ef8f701ebca713138c691c17d8468e127845ceb4d30b4682675eddf076a7c760",
+    "preview_files": [
+        "logos/grandes-amigos/preview/grandes-amigos-preview-480x120.png",
+        "logos/grandes-amigos/preview/grandes-amigos-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

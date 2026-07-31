@@ -1,0 +1,70 @@
+{
+    "entity": "FUNDACION PATROCINA UN DEPORTISTA THE EVNT",
+    "resolved_entity_name": null,
+    "official_site": "https://patrocinaundeportista.com/",
+    "supporting_evidence_urls": [
+        "https://patrocinaundeportista.com/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://patrocinaundeportista.com/wp-content/uploads/2024/11/marcaOK-copia_Pagina_2-edited.jpg",
+    "source_file": "logos/fundacion-patrocina-un-deportista/original/fundacion-patrocina-un-deportista-source.jpg",
+    "source_format": "JPEG",
+    "source_dimensions_px": {
+        "width": 1654,
+        "height": 1654
+    },
+    "source_color_mode": "CMYK",
+    "source_alpha_channel": false,
+    "source_background": "Fondo no transparente; se eliminaron pÃ­xeles near-white del fondo claro confirmado.",
+    "source_byte_size": 85650,
+    "source_sha256": "7c514c8ae7ae253c43e10af7b18ba136c00e3ef79425eebe3272f990381038b3",
+    "normalized_file": "logos/fundacion-patrocina-un-deportista/normalized/fundacion-patrocina-un-deportista-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 202,
+        "top": 35,
+        "right": 291,
+        "bottom": 93
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 89,
+        "height": 58
+    },
+    "normalized_byte_size": 7649,
+    "normalized_sha256": "27e60bafdd2d0465d4096fd50234a7cfd288766747f2a0224afc48650184bfc0",
+    "preview_files": [
+        "logos/fundacion-patrocina-un-deportista/preview/fundacion-patrocina-un-deportista-preview-480x120.png",
+        "logos/fundacion-patrocina-un-deportista/preview/fundacion-patrocina-un-deportista-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a. Se eliminÃ³ el fondo near-white confirmado.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

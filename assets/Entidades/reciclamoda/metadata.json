@@ -1,0 +1,70 @@
+{
+    "entity": "RECICLAMODA (MODA RE)",
+    "resolved_entity_name": null,
+    "official_site": "https://www.caritas.es/siguenzaguadalajara/accion_social/reciclamoda-moda-re/",
+    "supporting_evidence_urls": [
+        "https://www.caritas.es/siguenzaguadalajara/accion_social/reciclamoda-moda-re/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://www.caritas.es/main-files/uploads/sites/36/2024/07/Logotipo-Caritas-Siguenza-Guadalajara.1.jpg",
+    "source_file": "logos/reciclamoda/original/reciclamoda-source.jpg",
+    "source_format": "JPEG",
+    "source_dimensions_px": {
+        "width": 780,
+        "height": 609
+    },
+    "source_color_mode": "RGB",
+    "source_alpha_channel": false,
+    "source_background": "Fondo no transparente; se eliminaron pÃ­xeles near-white del fondo claro confirmado.",
+    "source_byte_size": 105089,
+    "source_sha256": "fe5c901d3ec200b5981c28191111e50badd0a1ca7435064db887939c92627840",
+    "normalized_file": "logos/reciclamoda/normalized/reciclamoda-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 181,
+        "top": 16,
+        "right": 295,
+        "bottom": 105
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 114,
+        "height": 89
+    },
+    "normalized_byte_size": 14332,
+    "normalized_sha256": "0895a99c668fdb7f976968d553559f89cab0ae2cc598602943566027d80fb4f3",
+    "preview_files": [
+        "logos/reciclamoda/preview/reciclamoda-preview-480x120.png",
+        "logos/reciclamoda/preview/reciclamoda-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a. Se eliminÃ³ el fondo near-white confirmado.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

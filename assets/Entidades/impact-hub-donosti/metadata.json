@@ -1,0 +1,70 @@
+{
+    "entity": "IMPACT HUB DONOSTI",
+    "resolved_entity_name": null,
+    "official_site": "https://donostia.impacthub.net/",
+    "supporting_evidence_urls": [
+        "https://donostia.impacthub.net/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://donostia.impacthub.net/wp-content/uploads/2022/12/LOGO-IHD.png",
+    "source_file": "logos/impact-hub-donosti/original/impact-hub-donosti-source.png",
+    "source_format": "PNG",
+    "source_dimensions_px": {
+        "width": 346,
+        "height": 130
+    },
+    "source_color_mode": "RGBA",
+    "source_alpha_channel": true,
+    "source_background": "Transparencia conservada.",
+    "source_byte_size": 4183,
+    "source_sha256": "0302917004b6b29b8c1fe75837b45a048a6256ea0a959b5ef41f17a5827bd85c",
+    "normalized_file": "logos/impact-hub-donosti/normalized/impact-hub-donosti-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 96,
+        "top": 6,
+        "right": 383,
+        "bottom": 114
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 287,
+        "height": 108
+    },
+    "normalized_byte_size": 7663,
+    "normalized_sha256": "114226cd90105f54d8fa5934270b81615734075a8b6db6e5ba70619088cf2b6e",
+    "preview_files": [
+        "logos/impact-hub-donosti/preview/impact-hub-donosti-preview-480x120.png",
+        "logos/impact-hub-donosti/preview/impact-hub-donosti-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

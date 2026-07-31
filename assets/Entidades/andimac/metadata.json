@@ -1,0 +1,70 @@
+{
+    "entity": "ANDIMAC",
+    "resolved_entity_name": null,
+    "official_site": "https://andimac.org/",
+    "supporting_evidence_urls": [
+        "https://www.andimac.org/aviso-legal/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://www.andimac.org/wp-content/uploads/2022/02/logo.png",
+    "source_file": "logos/andimac/original/andimac-source.png",
+    "source_format": "PNG",
+    "source_dimensions_px": {
+        "width": 377,
+        "height": 66
+    },
+    "source_color_mode": "RGBA",
+    "source_alpha_channel": true,
+    "source_background": "Transparencia conservada.",
+    "source_byte_size": 14057,
+    "source_sha256": "d4e46cd323da01608d0e57ab2f51cf43b68590263582dff8fbd65985a18e2602",
+    "normalized_file": "logos/andimac/normalized/andimac-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 51,
+        "top": 27,
+        "right": 428,
+        "bottom": 93
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 377,
+        "height": 66
+    },
+    "normalized_byte_size": 12335,
+    "normalized_sha256": "eee73e93292e01ef8fdaf62af9b9d113cc4ebd8c655fa788f20cf082ec69f487",
+    "preview_files": [
+        "logos/andimac/preview/andimac-preview-480x120.png",
+        "logos/andimac/preview/andimac-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

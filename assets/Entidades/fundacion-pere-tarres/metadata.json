@@ -1,0 +1,71 @@
+{
+    "entity": "FUNDACIÓN PERE TARRÉS",
+    "resolved_entity_name": "Fundacio Pere Tarres",
+    "official_site": "https://www.peretarres.org/es",
+    "supporting_evidence_urls": [
+        "https://www.peretarres.org/",
+        "https://www.peretarres.com/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": "Directo: educacion, accion social, infancia, juventud y formacion.",
+    "source_asset_url": "https://www.peretarres.org/themes/custom/peretarres/img/pere-tarres.png",
+    "source_file": "logos/fundacion-pere-tarres/original/fundacion-pere-tarres-source.png",
+    "source_format": "PNG",
+    "source_dimensions_px": {
+        "width": 237,
+        "height": 52
+    },
+    "source_color_mode": "RGBA",
+    "source_alpha_channel": true,
+    "source_background": "Transparencia conservada.",
+    "source_byte_size": 11476,
+    "source_sha256": "a31bc3a5930094ff874cc17e52fea96d77b9c0e07234458f2f482591a71df8c4",
+    "normalized_file": "logos/fundacion-pere-tarres/normalized/fundacion-pere-tarres-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 121,
+        "top": 34,
+        "right": 358,
+        "bottom": 86
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 237,
+        "height": 52
+    },
+    "normalized_byte_size": 11956,
+    "normalized_sha256": "8c1d685df284138406e714095a1c80436f388f832dab202fa35075134d0a2a89",
+    "preview_files": [
+        "logos/fundacion-pere-tarres/preview/fundacion-pere-tarres-preview-480x120.png",
+        "logos/fundacion-pere-tarres/preview/fundacion-pere-tarres-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

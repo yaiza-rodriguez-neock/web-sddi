@@ -1,0 +1,71 @@
+{
+    "entity": "FUNDACIO MIRAM",
+    "resolved_entity_name": null,
+    "official_site": "https://fundaciomiram.org/",
+    "supporting_evidence_urls": [
+        "https://fundaciomiram.org/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://fundaciomiram.org/wp-content/uploads/2025/07/LOGO-MIRAM-1.svg",
+    "source_file": "logos/fundacio-miram/original/fundacio-miram-source.svg",
+    "source_format": "SVG",
+    "source_dimensions_px": {
+        "width": 357,
+        "height": 106
+    },
+    "source_color_mode": "Vectorial",
+    "source_alpha_channel": true,
+    "source_background": "Transparente; sin fondo de lienzo.",
+    "source_byte_size": 27701,
+    "source_sha256": "218b63a53e7ee1673d3c8e8db54ef02bd3398ac57d737f1bfa61b1c3c9caf5e0",
+    "normalized_file": "logos/fundacio-miram/normalized/fundacio-miram-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 75,
+        "top": 7,
+        "right": 404,
+        "bottom": 113
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 329,
+        "height": 106
+    },
+    "normalized_byte_size": 17611,
+    "normalized_sha256": "350a210819c6896c141e5993e18341b9cb15a45f168ba43d2d05352d902a2e44",
+    "preview_files": [
+        "logos/fundacio-miram/preview/fundacio-miram-preview-480x120.png",
+        "logos/fundacio-miram/preview/fundacio-miram-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente SVG oficial rasterizada a PNG y centrada en canvas transparente 480Ã—120.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    },
+    "source_declared_viewBox": "0 0 357.94 106.11"
+}

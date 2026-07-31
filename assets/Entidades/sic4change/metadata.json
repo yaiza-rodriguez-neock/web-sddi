@@ -1,0 +1,70 @@
+{
+    "entity": "SIC4CHANGE",
+    "resolved_entity_name": null,
+    "official_site": "https://sic4change.org/",
+    "supporting_evidence_urls": [
+        "https://sic4change.org/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://sic4change.org/assets/assets/images/logos/logo-s4c-horizontal.webp",
+    "source_file": "logos/sic4change/original/sic4change-source.webp",
+    "source_format": "WEBP",
+    "source_dimensions_px": {
+        "width": 979,
+        "height": 500
+    },
+    "source_color_mode": "RGBA",
+    "source_alpha_channel": true,
+    "source_background": "Transparencia conservada.",
+    "source_byte_size": 32118,
+    "source_sha256": "0c652555d53a632f8ce25495b0aa702abac8b37e0f96cf65422727b50d21692c",
+    "normalized_file": "logos/sic4change/normalized/sic4change-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 134,
+        "top": 6,
+        "right": 345,
+        "bottom": 114
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 211,
+        "height": 108
+    },
+    "normalized_byte_size": 10974,
+    "normalized_sha256": "2d4addae15faccadb69b30865fe1786e7d06208bd578e149e6138ac79233f87c",
+    "preview_files": [
+        "logos/sic4change/preview/sic4change-preview-480x120.png",
+        "logos/sic4change/preview/sic4change-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

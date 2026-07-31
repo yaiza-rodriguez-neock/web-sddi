@@ -1,0 +1,70 @@
+{
+    "entity": "SAVE THE CHILDREN",
+    "resolved_entity_name": null,
+    "official_site": "https://www.savethechildren.es/",
+    "supporting_evidence_urls": [
+        "https://www.savethechildren.es/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://www.savethechildren.es/sites/default/files/imce/imgs/banner-firma-logo.png",
+    "source_file": "logos/save-the-children/original/save-the-children-source.png",
+    "source_format": "PNG",
+    "source_dimensions_px": {
+        "width": 1200,
+        "height": 1200
+    },
+    "source_color_mode": "RGB",
+    "source_alpha_channel": false,
+    "source_background": "Fondo no transparente; se eliminaron pÃ­xeles near-white del fondo claro confirmado.",
+    "source_byte_size": 18681,
+    "source_sha256": "b109126c62f3e592489477d56319a2af1996798b8bf76afe94d0964d74802710",
+    "normalized_file": "logos/save-the-children/normalized/save-the-children-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 192,
+        "top": 16,
+        "right": 288,
+        "bottom": 101
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 96,
+        "height": 85
+    },
+    "normalized_byte_size": 8642,
+    "normalized_sha256": "eebe025252af5640a6fd09baa80c77b8aa6e081d80e8542ba7c001e6e29d9949",
+    "preview_files": [
+        "logos/save-the-children/preview/save-the-children-preview-480x120.png",
+        "logos/save-the-children/preview/save-the-children-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a. Se eliminÃ³ el fondo near-white confirmado.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

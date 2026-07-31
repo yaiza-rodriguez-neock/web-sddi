@@ -1,0 +1,79 @@
+{
+    "entity": "ITELLIGENT",
+    "resolved_entity_name": "ITELLIGENT Information Technologies, S.L.",
+    "official_site": "https://itelligent.es/",
+    "supporting_evidence_urls": [
+        "https://itelligent.es/",
+        "https://itelligent.es/aviso-legal"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": "Proveedor tecnolÃ³gico: inteligencia artificial, Big Data, procesamiento del lenguaje natural, analÃ­tica y plataformas SaaS.",
+    "source_asset_url": "https://itelligent.es/wp-content/uploads/itelligent-logotipo.png",
+    "source_file": "logos/itelligent/original/itelligent-source.png",
+    "source_format": "PNG",
+    "source_dimensions_px": {
+        "width": 300,
+        "height": 83
+    },
+    "source_color_mode": "RGBA",
+    "source_alpha_channel": true,
+    "source_background": "Transparente; las esquinas tienen alfa 0.",
+    "source_byte_size": 9475,
+    "source_sha256": "023becd21b7b627f4d0dbea282286ac4d52abd66a41082de5c68f05bfbcdbf6f",
+    "normalized_file": "logos/itelligent/normalized/itelligent-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 90,
+        "top": 18,
+        "right": 390,
+        "bottom": 101
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 300,
+        "height": 83
+    },
+    "preview_files": [
+        "logos/itelligent/preview/itelligent-preview-480x120.png",
+        "logos/itelligent/preview/itelligent-preview-480x120-dark.png"
+    ],
+    "transformation": "Canvas transparente 480×120, área visible máxima 432×108, centrado, proporción conservada, sin upscale y conservación de la transparencia del archivo fuente.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    },
+    "normalized_byte_size": 9491,
+    "normalized_sha256": "7e0b9a40a2c0c049878bd904e0a66a2051b5a0ce31109625a74df6a33d05bead",
+    "historical_normalized_files": [
+        "logos/itelligent/normalized/itelligent-1200x400.png",
+        "logos/itelligent/normalized/itelligent-600x200_small.png"
+    ],
+    "historical_preview_files": [
+        "logos/itelligent/preview/itelligent-preview.png",
+        "logos/itelligent/preview/itelligent-preview-dark.png"
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "entity": "JUAN FRANCISCO SANCHEZ E HIJOS SL",
+    "resolved_entity_name": null,
+    "official_site": "https://jfsanchez.info/",
+    "supporting_evidence_urls": [
+        "https://jfsanchez.info/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://jfsanchez.info/wp-content/uploads/2026/04/LOGO-Juan-FRANCISCO-02-scaled-e1776427749438.png",
+    "source_file": "logos/juan-francisco-sanchez-e-hijos/original/juan-francisco-sanchez-e-hijos-source.png",
+    "source_format": "PNG",
+    "source_dimensions_px": {
+        "width": 2027,
+        "height": 784
+    },
+    "source_color_mode": "RGBA",
+    "source_alpha_channel": true,
+    "source_background": "Transparencia conservada.",
+    "source_byte_size": 43588,
+    "source_sha256": "b0cdfe2d750e181716b22af1af95f4075952c341560f897175d3c21bd2c9e5c2",
+    "normalized_file": "logos/juan-francisco-sanchez-e-hijos/normalized/juan-francisco-sanchez-e-hijos-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 103,
+        "top": 6,
+        "right": 379,
+        "bottom": 112
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 276,
+        "height": 106
+    },
+    "normalized_byte_size": 13398,
+    "normalized_sha256": "9c024616ef9c3dc30d389128e810302f8eb561c94eaac8e4fb0c4a2e97c21eb4",
+    "preview_files": [
+        "logos/juan-francisco-sanchez-e-hijos/preview/juan-francisco-sanchez-e-hijos-preview-480x120.png",
+        "logos/juan-francisco-sanchez-e-hijos/preview/juan-francisco-sanchez-e-hijos-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

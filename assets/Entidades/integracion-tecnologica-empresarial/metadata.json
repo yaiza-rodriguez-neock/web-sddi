@@ -1,0 +1,70 @@
+{
+    "entity": "INTEGRACIÓN TECNOLÓGICA EMPRESARIAL S.L.",
+    "resolved_entity_name": null,
+    "official_site": "https://ite-es.com/",
+    "supporting_evidence_urls": [
+        "https://ite-es.com/compania/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://ite-es.com/wp-content/themes/ite/img/logo.png",
+    "source_file": "logos/integracion-tecnologica-empresarial/original/integracion-tecnologica-empresarial-source.png",
+    "source_format": "PNG",
+    "source_dimensions_px": {
+        "width": 286,
+        "height": 222
+    },
+    "source_color_mode": "RGBA",
+    "source_alpha_channel": true,
+    "source_background": "Transparencia conservada.",
+    "source_byte_size": 32684,
+    "source_sha256": "81b4b05f84104c6c42d3c275d6a0066158fe31ded804c49b732bd610ca7b5a34",
+    "normalized_file": "logos/integracion-tecnologica-empresarial/normalized/integracion-tecnologica-empresarial-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 177,
+        "top": 14,
+        "right": 300,
+        "bottom": 100
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 123,
+        "height": 86
+    },
+    "normalized_byte_size": 12363,
+    "normalized_sha256": "b618761230b6b659323f993b8c6b09e87056776449a1ad51c92750f7efe5f286",
+    "preview_files": [
+        "logos/integracion-tecnologica-empresarial/preview/integracion-tecnologica-empresarial-preview-480x120.png",
+        "logos/integracion-tecnologica-empresarial/preview/integracion-tecnologica-empresarial-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

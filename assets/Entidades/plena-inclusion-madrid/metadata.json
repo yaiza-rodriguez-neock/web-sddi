@@ -1,0 +1,70 @@
+{
+    "entity": "PLENA INCLUSIÓN MADRID",
+    "resolved_entity_name": null,
+    "official_site": "https://plenainclusionmadrid.org/",
+    "supporting_evidence_urls": [
+        "https://plenainclusionmadrid.org/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://plenainclusionmadrid.org/wp-content/uploads/2017/10/logo-plena_inclusion-madrid.png",
+    "source_file": "logos/plena-inclusion-madrid/original/plena-inclusion-madrid-source.png",
+    "source_format": "PNG",
+    "source_dimensions_px": {
+        "width": 186,
+        "height": 90
+    },
+    "source_color_mode": "RGBA",
+    "source_alpha_channel": true,
+    "source_background": "Transparencia conservada.",
+    "source_byte_size": 12820,
+    "source_sha256": "adb9be4c024c8631b90c8d51aee0420088c4cdfa00587346cf911c1fbeb57cae",
+    "normalized_file": "logos/plena-inclusion-madrid/normalized/plena-inclusion-madrid-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 147,
+        "top": 15,
+        "right": 333,
+        "bottom": 105
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 186,
+        "height": 90
+    },
+    "normalized_byte_size": 15409,
+    "normalized_sha256": "0e90376fde84d8d81a29191f35e88341a75203db08bc9ccf70060fed5bfb29be",
+    "preview_files": [
+        "logos/plena-inclusion-madrid/preview/plena-inclusion-madrid-preview-480x120.png",
+        "logos/plena-inclusion-madrid/preview/plena-inclusion-madrid-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

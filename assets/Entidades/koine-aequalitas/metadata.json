@@ -1,0 +1,70 @@
+{
+    "entity": "F. KOINE-AEQUALITAS",
+    "resolved_entity_name": null,
+    "official_site": "https://www.koine-aequalitas.org/",
+    "supporting_evidence_urls": [
+        "https://www.koine-aequalitas.org/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://www.koine-aequalitas.org/wp-content/uploads/2026/05/LOGO-BILINGUE-e1778157523142.png",
+    "source_file": "logos/koine-aequalitas/original/koine-aequalitas-source.png",
+    "source_format": "PNG",
+    "source_dimensions_px": {
+        "width": 1868,
+        "height": 390
+    },
+    "source_color_mode": "RGBA",
+    "source_alpha_channel": true,
+    "source_background": "Transparencia conservada.",
+    "source_byte_size": 56559,
+    "source_sha256": "b3ba78e705fa0872526fa85ba0fe62e7a492021f60cd4590ce3bd769ba540ad4",
+    "normalized_file": "logos/koine-aequalitas/normalized/koine-aequalitas-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 31,
+        "top": 18,
+        "right": 445,
+        "bottom": 100
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 414,
+        "height": 82
+    },
+    "normalized_byte_size": 16850,
+    "normalized_sha256": "0a52733f01c4cc62f52f1796b6b3c17a515edf0df37d6dcab3da628f99b42c19",
+    "preview_files": [
+        "logos/koine-aequalitas/preview/koine-aequalitas-preview-480x120.png",
+        "logos/koine-aequalitas/preview/koine-aequalitas-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "entity": "EMBICO BURGOS (MODA RE)",
+    "resolved_entity_name": null,
+    "official_site": "https://www.embico.es/",
+    "supporting_evidence_urls": [
+        "https://www.embico.es/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://www.embico.es/assets/img/logo.jpg",
+    "source_file": "logos/embico-burgos/original/embico-burgos-source.jpg",
+    "source_format": "JPEG",
+    "source_dimensions_px": {
+        "width": 710,
+        "height": 273
+    },
+    "source_color_mode": "RGB",
+    "source_alpha_channel": false,
+    "source_background": "Fondo no transparente; se eliminaron pÃ­xeles near-white del fondo claro confirmado.",
+    "source_byte_size": 67919,
+    "source_sha256": "2ed29645558d9f58af7cc1d2412b63309e0b349837b59cf24dee7306689383f6",
+    "normalized_file": "logos/embico-burgos/normalized/embico-burgos-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 99,
+        "top": 6,
+        "right": 380,
+        "bottom": 114
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 281,
+        "height": 108
+    },
+    "normalized_byte_size": 26335,
+    "normalized_sha256": "3f3614ecaf1591a6becdde6b5a401add4b14f5b87f63cac89b7323be0e991b9e",
+    "preview_files": [
+        "logos/embico-burgos/preview/embico-burgos-preview-480x120.png",
+        "logos/embico-burgos/preview/embico-burgos-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a. Se eliminÃ³ el fondo near-white confirmado.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

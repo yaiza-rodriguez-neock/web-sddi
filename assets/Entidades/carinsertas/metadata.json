@@ -1,0 +1,70 @@
+{
+    "entity": "CARINSERTAS (MODA RE)",
+    "resolved_entity_name": null,
+    "official_site": "https://www.carinsertas.com/moda-re/",
+    "supporting_evidence_urls": [
+        "https://www.carinsertas.com/moda-re/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://www.carinsertas.com/wp-content/uploads/2025/11/carinsertas-logo.png",
+    "source_file": "logos/carinsertas/original/carinsertas-source.png",
+    "source_format": "PNG",
+    "source_dimensions_px": {
+        "width": 216,
+        "height": 80
+    },
+    "source_color_mode": "RGBA",
+    "source_alpha_channel": true,
+    "source_background": "Transparencia conservada.",
+    "source_byte_size": 17185,
+    "source_sha256": "645eff1d27bbd572b7bb60c6fae36408f0b66e8b71d3ad61af5b9596edae66de",
+    "normalized_file": "logos/carinsertas/normalized/carinsertas-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 132,
+        "top": 20,
+        "right": 348,
+        "bottom": 100
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 216,
+        "height": 80
+    },
+    "normalized_byte_size": 9792,
+    "normalized_sha256": "58d316b73c9b54ea0b14399f2dd58237c428fe1c80a0a3c1411010f98459df24",
+    "preview_files": [
+        "logos/carinsertas/preview/carinsertas-preview-480x120.png",
+        "logos/carinsertas/preview/carinsertas-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

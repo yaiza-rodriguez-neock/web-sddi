@@ -1,0 +1,70 @@
+{
+    "entity": "SERVICIOS INTEGRALES DE METROLOGÍA Y CALIBRACIÓN, S.L.",
+    "resolved_entity_name": null,
+    "official_site": "https://simetrycal.com/",
+    "supporting_evidence_urls": [
+        "https://simetrycal.com/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://simetrycal.com/wp-content/uploads/2014/03/logo-simetrycal.png",
+    "source_file": "logos/servicios-integrales-metrologia-calibracion/original/servicios-integrales-metrologia-calibracion-source.png",
+    "source_format": "PNG",
+    "source_dimensions_px": {
+        "width": 425,
+        "height": 87
+    },
+    "source_color_mode": "RGBA",
+    "source_alpha_channel": true,
+    "source_background": "Transparencia conservada.",
+    "source_byte_size": 10654,
+    "source_sha256": "e148805335ec47ba14e7a28fccb0ae777ae8eeb7ac6328e2b805ce72f576be90",
+    "normalized_file": "logos/servicios-integrales-metrologia-calibracion/normalized/servicios-integrales-metrologia-calibracion-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 27,
+        "top": 16,
+        "right": 452,
+        "bottom": 103
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 425,
+        "height": 87
+    },
+    "normalized_byte_size": 9189,
+    "normalized_sha256": "52944cbbc5a08f33e293a01daefed605077d7db6eb705665b2304aeca3d56546",
+    "preview_files": [
+        "logos/servicios-integrales-metrologia-calibracion/preview/servicios-integrales-metrologia-calibracion-preview-480x120.png",
+        "logos/servicios-integrales-metrologia-calibracion/preview/servicios-integrales-metrologia-calibracion-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "entity": "EMPRESA DE INSERCION LABORAL BIOINCANARIAS S.L.",
+    "resolved_entity_name": null,
+    "official_site": "https://bioincanarias.es/",
+    "supporting_evidence_urls": [
+        "https://bioincanarias.es/quienes-somos/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://bioincanarias.es/wp-content/uploads/2022/10/LOGO-BIOIN-RESTO-DE-PAGINAS.png",
+    "source_file": "logos/bioincanarias/original/bioincanarias-source.png",
+    "source_format": "PNG",
+    "source_dimensions_px": {
+        "width": 402,
+        "height": 142
+    },
+    "source_color_mode": "RGBA",
+    "source_alpha_channel": true,
+    "source_background": "Transparencia conservada.",
+    "source_byte_size": 12890,
+    "source_sha256": "0561091401a80322494ad9b79b34ba9f3b205d77b76781241ae4af07045bb854",
+    "normalized_file": "logos/bioincanarias/normalized/bioincanarias-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 87,
+        "top": 6,
+        "right": 393,
+        "bottom": 114
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 306,
+        "height": 108
+    },
+    "normalized_byte_size": 19714,
+    "normalized_sha256": "8546c92afd33481ae74ba696565c8eb48fec8838a5d6b107bf7e792a32f83f2f",
+    "preview_files": [
+        "logos/bioincanarias/preview/bioincanarias-preview-480x120.png",
+        "logos/bioincanarias/preview/bioincanarias-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

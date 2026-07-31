@@ -1,0 +1,71 @@
+{
+    "entity": "RED ISEM",
+    "resolved_entity_name": "Red ISEM",
+    "official_site": "https://www.redisem.es/",
+    "supporting_evidence_urls": [
+        "https://www.redisem.es/",
+        "https://www.redisem.es/red-isem/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": "Directo: red de salud mental, innovacion, calidad del tercer sector y sostenibilidad.",
+    "source_asset_url": "https://www.redisem.es/wp-content/uploads/2025/01/isem_logo_2025.png",
+    "source_file": "logos/red-isem/original/red-isem-source.png",
+    "source_format": "PNG",
+    "source_dimensions_px": {
+        "width": 1080,
+        "height": 1080
+    },
+    "source_color_mode": "RGBA",
+    "source_alpha_channel": true,
+    "source_background": "Transparencia conservada.",
+    "source_byte_size": 104536,
+    "source_sha256": "4d1eac7be49cdae527ba20df1f41b400910f5640033ec320ae30b58c422c4b40",
+    "normalized_file": "logos/red-isem/normalized/red-isem-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 206,
+        "top": 14,
+        "right": 274,
+        "bottom": 103
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 68,
+        "height": 89
+    },
+    "normalized_byte_size": 8205,
+    "normalized_sha256": "ee4e81a212fec9c485df76b4c5a11e3720d697713c75b5bd22166e88ef0e37b8",
+    "preview_files": [
+        "logos/red-isem/preview/red-isem-preview-480x120.png",
+        "logos/red-isem/preview/red-isem-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480×120, proporción conservada y sin upscale; se preservó transparencia cuando existía.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorización de publicación del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

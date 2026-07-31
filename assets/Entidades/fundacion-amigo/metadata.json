@@ -1,0 +1,72 @@
+{
+    "entity": "FUNDACIÓN AMIGÓ",
+    "resolved_entity_name": "Fundacion Amigo",
+    "official_site": "https://fundacionamigo.org/",
+    "supporting_evidence_urls": [
+        "https://fundacionamigo.org/",
+        "https://fundacionamigo.org/quienes-somos/",
+        "https://fundacionamigo.org/aviso-legal/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": "Directo: infancia, juventud, familias, prevencion e inclusion social.",
+    "source_asset_url": "https://fundacionamigo.org/wp-content/uploads/2021/06/logoamigo_title-big.png",
+    "source_file": "logos/fundacion-amigo/original/fundacion-amigo-source.png",
+    "source_format": "PNG",
+    "source_dimensions_px": {
+        "width": 678,
+        "height": 255
+    },
+    "source_color_mode": "P",
+    "source_alpha_channel": true,
+    "source_background": "Transparencia conservada.",
+    "source_byte_size": 14674,
+    "source_sha256": "c8481b8d74f51f99bf9165711ee257fd7552d8b98d7286f6b9b987390bf36760",
+    "normalized_file": "logos/fundacion-amigo/normalized/fundacion-amigo-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 101,
+        "top": 8,
+        "right": 379,
+        "bottom": 114
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 278,
+        "height": 106
+    },
+    "normalized_byte_size": 13754,
+    "normalized_sha256": "78150fa8e96e55cba3dc3392ae7389e1d16fcec30bb12aa280a05a6ac2b30af4",
+    "preview_files": [
+        "logos/fundacion-amigo/preview/fundacion-amigo-preview-480x120.png",
+        "logos/fundacion-amigo/preview/fundacion-amigo-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480×120, proporción conservada y sin upscale; se preservó transparencia cuando existía.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorización de publicación del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

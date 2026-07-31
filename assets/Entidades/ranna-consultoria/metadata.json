@@ -1,0 +1,70 @@
+{
+    "entity": "RANNA CONSULTORIA SL",
+    "resolved_entity_name": null,
+    "official_site": "https://www.rannaconsultoria.es/",
+    "supporting_evidence_urls": [
+        "https://www.rannaconsultoria.es/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://www.rannaconsultoria.es/wp-content/uploads/2025/03/logos-en-2-filas-color-1-e1759261537382.png",
+    "source_file": "logos/ranna-consultoria/original/ranna-consultoria-source.png",
+    "source_format": "PNG",
+    "source_dimensions_px": {
+        "width": 4870,
+        "height": 576
+    },
+    "source_color_mode": "RGBA",
+    "source_alpha_channel": true,
+    "source_background": "Transparencia conservada.",
+    "source_byte_size": 292667,
+    "source_sha256": "949c23529e960c807a33f85b1967dad2d3bf022e6feb428357abc08b1326effb",
+    "normalized_file": "logos/ranna-consultoria/normalized/ranna-consultoria-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 24,
+        "top": 34,
+        "right": 456,
+        "bottom": 85
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 432,
+        "height": 51
+    },
+    "normalized_byte_size": 18216,
+    "normalized_sha256": "d0d27966d63dfbb00513692cd8fab2d90b4db2d719f6d05d64b04d5244c3ff8e",
+    "preview_files": [
+        "logos/ranna-consultoria/preview/ranna-consultoria-preview-480x120.png",
+        "logos/ranna-consultoria/preview/ranna-consultoria-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "entity": "TRACOM CONSULTING",
+    "resolved_entity_name": null,
+    "official_site": "https://www.tracom.info/",
+    "supporting_evidence_urls": [
+        "https://www.tracom.info/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://www.tracom.info/wp-content/uploads/2024/05/logodef300.png",
+    "source_file": "logos/tracom-consulting/original/tracom-consulting-source.png",
+    "source_format": "PNG",
+    "source_dimensions_px": {
+        "width": 811,
+        "height": 248
+    },
+    "source_color_mode": "RGBA",
+    "source_alpha_channel": true,
+    "source_background": "Transparencia conservada.",
+    "source_byte_size": 48208,
+    "source_sha256": "51649dab659b09903ffc9a9e5e1c2a14e81e9bc4aa8608e2ecf62cc0dc85b785",
+    "normalized_file": "logos/tracom-consulting/normalized/tracom-consulting-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 80,
+        "top": 24,
+        "right": 395,
+        "bottom": 106
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 315,
+        "height": 82
+    },
+    "normalized_byte_size": 24286,
+    "normalized_sha256": "f21acebe021ebbde4c32e5ae7b1accf557a26643357ff16d8af1e578243d3606",
+    "preview_files": [
+        "logos/tracom-consulting/preview/tracom-consulting-preview-480x120.png",
+        "logos/tracom-consulting/preview/tracom-consulting-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

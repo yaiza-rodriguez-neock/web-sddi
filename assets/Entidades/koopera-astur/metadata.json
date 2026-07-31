@@ -1,0 +1,70 @@
+{
+    "entity": "KOOPERA ASTUR (MODA RE)",
+    "resolved_entity_name": null,
+    "official_site": "https://nicanora.es/tienda-ropa/koopera-store-con-moda-re-oviedo/",
+    "supporting_evidence_urls": [
+        "https://nicanora.es/tienda-ropa/koopera-store-con-moda-re-oviedo/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://nicanora.es/wp-content/uploads/logo-213x72.webp",
+    "source_file": "logos/koopera-astur/original/koopera-astur-source.webp",
+    "source_format": "WEBP",
+    "source_dimensions_px": {
+        "width": 213,
+        "height": 72
+    },
+    "source_color_mode": "RGBA",
+    "source_alpha_channel": true,
+    "source_background": "Transparencia conservada.",
+    "source_byte_size": 6900,
+    "source_sha256": "9112400e0db3a78e260f94bf6f0e504e2b5b56441bc2e2c1595f170c2c87eeb3",
+    "normalized_file": "logos/koopera-astur/normalized/koopera-astur-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 142,
+        "top": 30,
+        "right": 334,
+        "bottom": 90
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 192,
+        "height": 60
+    },
+    "normalized_byte_size": 9667,
+    "normalized_sha256": "4c15540f7c5c15a5790a0ee4a169d9eff994e52310288adad96175675fbc634f",
+    "preview_files": [
+        "logos/koopera-astur/preview/koopera-astur-preview-480x120.png",
+        "logos/koopera-astur/preview/koopera-astur-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

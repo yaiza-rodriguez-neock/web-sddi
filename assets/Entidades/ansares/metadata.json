@@ -1,0 +1,70 @@
+{
+    "entity": "ÁNSARES",
+    "resolved_entity_name": null,
+    "official_site": "https://www.autismohuelva.org/",
+    "supporting_evidence_urls": [
+        "https://www.autismohuelva.org/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://www.autismohuelva.org/wp-content/uploads/2021/04/LOGO_VECT_ANSARES.png",
+    "source_file": "logos/ansares/original/ansares-source.png",
+    "source_format": "PNG",
+    "source_dimensions_px": {
+        "width": 250,
+        "height": 250
+    },
+    "source_color_mode": "P",
+    "source_alpha_channel": true,
+    "source_background": "Transparencia conservada.",
+    "source_byte_size": 7038,
+    "source_sha256": "245d034f3cb68278edb729a15c892fdd14b4000ef5b053a7f7ff491bd563c3a4",
+    "normalized_file": "logos/ansares/normalized/ansares-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 186,
+        "top": 8,
+        "right": 294,
+        "bottom": 112
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 108,
+        "height": 104
+    },
+    "normalized_byte_size": 13968,
+    "normalized_sha256": "c26d97c01b72fd2199ef026d49c09fc7b24f4ddf939dba8e466b09845e429cb9",
+    "preview_files": [
+        "logos/ansares/preview/ansares-preview-480x120.png",
+        "logos/ansares/preview/ansares-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

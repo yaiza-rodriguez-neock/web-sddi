@@ -1,0 +1,70 @@
+{
+    "entity": "IBERCESA FIRMES SL",
+    "resolved_entity_name": null,
+    "official_site": "https://iberfirmes.com/",
+    "supporting_evidence_urls": [
+        "https://iberfirmes.es/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://iberfirmes.es/wp-content/uploads/2025/04/Logo.png",
+    "source_file": "logos/ibercesa-firmes/original/ibercesa-firmes-source.png",
+    "source_format": "PNG",
+    "source_dimensions_px": {
+        "width": 255,
+        "height": 103
+    },
+    "source_color_mode": "RGBA",
+    "source_alpha_channel": true,
+    "source_background": "Transparencia conservada.",
+    "source_byte_size": 5633,
+    "source_sha256": "336f2f82f11f0e25d73b1c31ad545448b94b414ad81998cbeb0139df1cbd7bcb",
+    "normalized_file": "logos/ibercesa-firmes/normalized/ibercesa-firmes-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 127,
+        "top": 21,
+        "right": 352,
+        "bottom": 96
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 225,
+        "height": 75
+    },
+    "normalized_byte_size": 5704,
+    "normalized_sha256": "b2e7e8d90e2aa86ca7f01aa78a11a2fb6776f2f5fb5ba931d892e68558f5fbf5",
+    "preview_files": [
+        "logos/ibercesa-firmes/preview/ibercesa-firmes-preview-480x120.png",
+        "logos/ibercesa-firmes/preview/ibercesa-firmes-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}

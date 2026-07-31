@@ -1,0 +1,70 @@
+{
+    "entity": "RETEXTIL (MODA RE)",
+    "resolved_entity_name": null,
+    "official_site": "https://caritasoa.org/modare/",
+    "supporting_evidence_urls": [
+        "https://caritasoa.org/modare/"
+    ],
+    "identity_confidence": "high",
+    "sector_fit": null,
+    "source_asset_url": "https://caritasoa.org/main-files/uploads/sites/30/2020/02/logo_rojo.jpg",
+    "source_file": "logos/retextil/original/retextil-source.jpg",
+    "source_format": "JPEG",
+    "source_dimensions_px": {
+        "width": 280,
+        "height": 280
+    },
+    "source_color_mode": "RGB",
+    "source_alpha_channel": false,
+    "source_background": "Fondo no transparente; se eliminaron pÃ­xeles near-white del fondo claro confirmado.",
+    "source_byte_size": 16764,
+    "source_sha256": "9abbb001537b1cd1c7f463f8cffe52b1cb6722ece60595a745f595c7897f4c53",
+    "normalized_file": "logos/retextil/normalized/retextil-480x120.png",
+    "normalized_format": "PNG",
+    "normalized_dimensions_px": {
+        "width": 480,
+        "height": 120
+    },
+    "normalized_color_mode": "RGBA",
+    "normalized_alpha_channel": true,
+    "normalized_visible_bbox_px": {
+        "left": 186,
+        "top": 6,
+        "right": 294,
+        "bottom": 114
+    },
+    "normalized_visible_dimensions_px": {
+        "width": 108,
+        "height": 108
+    },
+    "normalized_byte_size": 13278,
+    "normalized_sha256": "cc97ea49aca6402d5f00a7d22b2a75a4897170a0d121e63a72c13eabf3755985",
+    "preview_files": [
+        "logos/retextil/preview/retextil-preview-480x120.png",
+        "logos/retextil/preview/retextil-preview-480x120-dark.png"
+    ],
+    "transformation": "Fuente raster oficial centrada en canvas transparente 480Ã—120, proporciÃ³n conservada y sin upscale; se preservÃ³ transparencia cuando existÃ­a. Se eliminÃ³ el fondo near-white confirmado.",
+    "status": "normalized; technical_validation_complete; visual_validation_pending",
+    "incidents": [],
+    "rights_review": "Fuente publicada por la entidad; esto no constituye autorizaciÃ³n de publicaciÃ³n del logotipo en el carrusel. Confirmar derechos de uso antes de publicar.",
+    "definitive_project_spec": {
+        "retina_scale": 2,
+        "canvas_dimensions_px": {
+            "width": 480,
+            "height": 120
+        },
+        "note": "Las versiones 1200×400 y 600×200 son salidas históricas; la versión 480×120 es la especificación de producción vigente.",
+        "maximum_visible_dimensions_px": {
+            "width": 432,
+            "height": 108
+        },
+        "color_mode": "RGBA",
+        "background": "transparent",
+        "preserve_aspect_ratio": true,
+        "maximum_visible_area_percent": 90,
+        "target_display_dimensions_css_px": {
+            "width": 160,
+            "height": 40
+        }
+    }
+}
