@@ -12,7 +12,7 @@ window.entityUrls = {
   "koopera-astur": "https://nicanora.es/tienda-ropa/koopera-store-con-moda-re-oviedo/",
   "retextil": "https://caritasoa.org/modare/",
   "caparra": "https://www.caritasplasencia.org/noticias/grupo-caparra-refuerza-en-2025-su-impacto-social-y-ambiental-dentro-de-la-cooperativa-moda-re-gracias-a-su-servicio-en-la-diocesis-de-plasencia/",
-  "iniciativa-social-cdc": "https://www.caritasregiondemurcia.org/noticias/moda-re-refuerza-su-liderazgo-nacional-en-un-ano-clave-para-el-residuo-textil/",
+  "iniciativa-social-cdc": "https://www.caritas.es/economia_solidaria/eh-laboras-un-puente-hacia-el-mercado-laboral/",
   "apasomi": "https://diocesanaterrassa.caritas.es/es/economia_solidaria/apasomi/",
   "we-are-pleh": "https://wearepleh.com/",
   "fundacion-magdalena-moriche": "https://fundacionmagdalenamoriche.org/",
@@ -51,7 +51,6 @@ window.entityUrls = {
   "treball-solidari": "https://treballsolidari.org/",
   "fundacion-pere-tarres": "https://www.peretarres.org/es",
   "anesvad": "https://www.anesvad.org/?subcampania=PUB01012501NW004&hsa_kw&hsa_mt",
-  "youth-business-spain": "https://youthbusiness.es/",
   "amimet": "https://amimet.com/",
   "ymca": "https://www.ymca.es/",
   "talentismo": "https://talentismo.org/",
@@ -178,3 +177,4 @@ window.entityUrls = {
   "fecodes": "https://fecodes.es/",
   "360-soluciones-cambio-climatico": "https://www.360solucionescambioclimatico.com/"
 };
+

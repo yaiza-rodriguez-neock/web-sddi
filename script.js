@@ -1,4 +1,4 @@
-const companyGrid = document.getElementById("companies-grid");
+﻿const companyGrid = document.getElementById("companies-grid");
 const companiesScroller = document.getElementById("companies-scroller");
 const companiesScrollbar = document.getElementById("companies-scrollbar");
 const companiesThumb = document.getElementById("companies-scrollbar-thumb");
@@ -48,10 +48,37 @@ const faqData = [
 function buildCompaniesGrid() {
   if (!companyGrid) return;
   const fragment = document.createDocumentFragment();
-  const entities = Array.isArray(window.logoCatalog) ? window.logoCatalog : [];
+  const overrides = window.entityOverrides || {};
+  const extras = Array.isArray(window.extraLogoEntities) ? window.extraLogoEntities : [];
+  const duplicateIds = new Set(["misd-consulting-management-2"]);
+  const normalizeUrl = (value) => {
+    try {
+      const parsed = new URL(value);
+      return `${parsed.hostname.toLowerCase().replace(/^www\./, "")}${parsed.pathname.replace(/\/+$/, "")}`;
+    } catch {
+      return String(value || "").trim().toLowerCase().replace(/^https?:\/\//, "").replace(/^www\./, "").replace(/\/+$/, "");
+    }
+  };
+  const seenUrls = new Set();
+  const entities = [...(Array.isArray(window.logoCatalog) ? window.logoCatalog : []), ...extras]
+    .filter((entity, index, list) => !duplicateIds.has(entity.id) && list.findIndex((candidate) => candidate.id === entity.id) === index)
+    .map((entity) => ({ ...entity, ...(overrides[entity.id] || {}) }))
+    .filter((entity) => {
+      const entityUrl = entity.url || (window.entityUrls || {})[entity.id];
+      if (!entityUrl) return true;
+      const key = normalizeUrl(entityUrl);
+      if (seenUrls.has(key)) return false;
+      seenUrls.add(key);
+      return true;
+    });
+  const isEntity = (entity) => {
+    const name = String(entity.name || "").toLowerCase();
+    return String(entity.sector || "").toLowerCase().startsWith("directo") || /fundaci|asociaci|confederaci|cáritas|caritas|koopera|arrabal|amimet|femaddi/.test(name);
+  };
+  entities.sort((a, b) => Number(isEntity(a)) - Number(isEntity(b)));
   const entityUrls = window.entityUrls || {};
   for (const entity of entities) {
-    const entityUrl = entityUrls[entity.id];
+    const entityUrl = entity.url || entityUrls[entity.id];
     const cell = document.createElement(entityUrl ? "a" : "div");
     cell.className = "company-slot";
     cell.dataset.entityId = entity.id;
@@ -63,13 +90,22 @@ function buildCompaniesGrid() {
       cell.setAttribute("aria-label", `Abrir la p?gina de ${entity.name} en una pesta?a nueva`);
     }
 
-    const image = document.createElement("img");
-    const cacheVersion = entity.id === "arroupa-santiago" ? "?v=20260731" : "";
-    image.src = `assets/Entidades/${entity.id}/normalized/${entity.id}-480x120.png${cacheVersion}`;
-    image.alt = entity.name;
-    image.loading = "lazy";
-    image.decoding = "async";
-    cell.append(image);
+    if (entity.logoMode === "name") {
+      const label = document.createElement("span");
+      label.className = "company-name-logo";
+      label.textContent = entity.name;
+      label.style.fontSize = `${Math.max(8, Math.min(14, 220 / Math.max(entity.name.length, 16))).toFixed(1)}px`;
+      if (entity.logoColor) label.style.color = entity.logoColor;
+      cell.append(label);
+    } else {
+      const image = document.createElement("img");
+      const cacheVersion = entity.id === "empresas-en-positivo" ? "?v=20260803-empresas-actualizado" : entity.id === "save-the-children" ? "?v=20260803-save-the-children-actualizado" : entity.id === "moda-re" ? "?v=20260803-moda-re-actualizado" : entity.id === "fundacio-es-garrover" ? "?v=20260803-es-garrover-actualizado" : "?v=20260803";
+      image.src = `${entity.logoPath || `assets/Entidades/${entity.assetFolder || entity.id}/${entity.id}-480x120.png`}${cacheVersion}`;
+      image.alt = entity.name;
+      image.loading = "lazy";
+      image.decoding = "async";
+      cell.append(image);
+    }
     fragment.append(cell);
   }
   companyGrid.replaceChildren(fragment);
@@ -441,6 +477,11 @@ document.addEventListener("keydown", (event) => {
 });
 
 addFigmaMedia();
+
+
+
+
+
 
 
 
